@@ -1,0 +1,3554 @@
+[
+    {
+        "nev": "Akina",
+        "fajta": "Hokkaïdo",
+        "eletkor": "11",
+        "utolso": "2017.08.03"
+    },
+    {
+        "nev": "Akina",
+        "fajta": "Magyar agár",
+        "eletkor": "13",
+        "utolso": "2017.09.18"
+    },
+    {
+        "nev": "Akina",
+        "fajta": "Moskovskaya Storozhevaya",
+        "eletkor": "17",
+        "utolso": "2017.09.06"
+    },
+    {
+        "nev": "Akira",
+        "fajta": "Dachshund",
+        "eletkor": "6",
+        "utolso": "2017.12.21"
+    },
+    {
+        "nev": "Akira",
+        "fajta": "Grand Basset Griffon Vendéen",
+        "eletkor": "11",
+        "utolso": "2018.01.29"
+    },
+    {
+        "nev": "Alex",
+        "fajta": "Coban Köpegi",
+        "eletkor": "11",
+        "utolso": "2017.06.29"
+    },
+    {
+        "nev": "Ali",
+        "fajta": "Griffon Bruxellois",
+        "eletkor": "10",
+        "utolso": "2017.09.10"
+    },
+    {
+        "nev": "Amanda",
+        "fajta": "Chien de Saint-Hubert",
+        "eletkor": "8",
+        "utolso": "2017.12.20"
+    },
+    {
+        "nev": "April",
+        "fajta": "English Shepherd",
+        "eletkor": "6",
+        "utolso": "2017.08.31"
+    },
+    {
+        "nev": "April",
+        "fajta": "Somerset Harrier",
+        "eletkor": "13",
+        "utolso": "2018.01.16"
+    },
+    {
+        "nev": "Asterix",
+        "fajta": "Dunker",
+        "eletkor": "5",
+        "utolso": "2017.05.19"
+    },
+    {
+        "nev": "Asterix",
+        "fajta": "Magyar agár",
+        "eletkor": "6",
+        "utolso": "2017.11.30"
+    },
+    {
+        "nev": "Asterix",
+        "fajta": "Rövidszőrű magyar vizsla",
+        "eletkor": "5",
+        "utolso": "2017.07.07"
+    },
+    {
+        "nev": "Audrey",
+        "fajta": "Russko-Evropeïakaïa Laïka",
+        "eletkor": "15",
+        "utolso": "2017.08.06"
+    },
+    {
+        "nev": "Audrey",
+        "fajta": "Bedlington Terrier",
+        "eletkor": "6",
+        "utolso": "2018.01.26"
+    },
+    {
+        "nev": "Audrey",
+        "fajta": "Svensk Lapphund",
+        "eletkor": "12",
+        "utolso": "2017.09.08"
+    },
+    {
+        "nev": "Babuka",
+        "fajta": "Cão Fila de São Miguel",
+        "eletkor": "8",
+        "utolso": "2017.04.06"
+    },
+    {
+        "nev": "Babuka",
+        "fajta": "Hollandse Herdershond Korthaar",
+        "eletkor": "7",
+        "utolso": "2017.04.09"
+    },
+    {
+        "nev": "Bajusz",
+        "fajta": "Shiba",
+        "eletkor": "7",
+        "utolso": "2017.10.22"
+    },
+    {
+        "nev": "Bajusz",
+        "fajta": "Lakeland Terrier",
+        "eletkor": "10",
+        "utolso": "2017.11.12"
+    },
+    {
+        "nev": "Bajusz",
+        "fajta": "Australian Kelpie",
+        "eletkor": "11",
+        "utolso": "2017.10.31"
+    },
+    {
+        "nev": "Bamboo",
+        "fajta": "Boykin Spaniel",
+        "eletkor": "4",
+        "utolso": "2017.05.09"
+    },
+    {
+        "nev": "Bamboo",
+        "fajta": "Levesque",
+        "eletkor": "6",
+        "utolso": "2017.06.09"
+    },
+    {
+        "nev": "Bandita",
+        "fajta": "Lapinporokoira",
+        "eletkor": "1",
+        "utolso": "2017.09.04"
+    },
+    {
+        "nev": "Bandita",
+        "fajta": "Berger de Picardie – Berger Picard",
+        "eletkor": "11",
+        "utolso": "2017.10.02"
+    },
+    {
+        "nev": "Bandita",
+        "fajta": "Bolognese",
+        "eletkor": "9",
+        "utolso": "2017.12.24"
+    },
+    {
+        "nev": "Barnabás",
+        "fajta": "Labrador Retriever",
+        "eletkor": "14",
+        "utolso": "2017.12.15"
+    },
+    {
+        "nev": "Barnabás",
+        "fajta": "Alaskan Malamute",
+        "eletkor": "6",
+        "utolso": "2017.03.16"
+    },
+    {
+        "nev": "Barnabás",
+        "fajta": "Tosa",
+        "eletkor": "4",
+        "utolso": "2017.05.12"
+    },
+    {
+        "nev": "Bartók",
+        "fajta": "Dansk-Svensk Gårdshund",
+        "eletkor": "12",
+        "utolso": "2017.11.10"
+    },
+    {
+        "nev": "Bartók",
+        "fajta": "Zwergpinscher",
+        "eletkor": "6",
+        "utolso": "2017.08.25"
+    },
+    {
+        "nev": "Bebe",
+        "fajta": "Cão da Serra da Estrela",
+        "eletkor": "18",
+        "utolso": "2018.01.31"
+    },
+    {
+        "nev": "Benji",
+        "fajta": "Nederlandse Schapendoes",
+        "eletkor": "8",
+        "utolso": "2018.01.17"
+    },
+    {
+        "nev": "Benni",
+        "fajta": "Zapadno-Sibirskaïa Laïka",
+        "eletkor": "8",
+        "utolso": "2017.08.21"
+    },
+    {
+        "nev": "Benni",
+        "fajta": "Maltese",
+        "eletkor": "7",
+        "utolso": "2017.10.24"
+    },
+    {
+        "nev": "Bento",
+        "fajta": "Berger de Brie",
+        "eletkor": "7",
+        "utolso": "2017.06.05"
+    },
+    {
+        "nev": "Bento",
+        "fajta": "Basset d'Artois",
+        "eletkor": "14",
+        "utolso": "2017.11.08"
+    },
+    {
+        "nev": "Berci",
+        "fajta": "Berger de Picardie – Berger Picard",
+        "eletkor": "12",
+        "utolso": "2017.10.02"
+    },
+    {
+        "nev": "Berci",
+        "fajta": "Shikoku",
+        "eletkor": "6",
+        "utolso": "2017.12.03"
+    },
+    {
+        "nev": "Berci",
+        "fajta": "Basset Fauve de Bretagne",
+        "eletkor": "6",
+        "utolso": "2017.03.30"
+    },
+    {
+        "nev": "Berci",
+        "fajta": "English Toy Terrier",
+        "eletkor": "18",
+        "utolso": "2017.10.30"
+    },
+    {
+        "nev": "Berci",
+        "fajta": "Rövidszőrű magyar vizsla",
+        "eletkor": "5",
+        "utolso": "2017.06.16"
+    },
+    {
+        "nev": "Betyár",
+        "fajta": "Zwergschnauzer",
+        "eletkor": "14",
+        "utolso": "2017.09.20"
+    },
+    {
+        "nev": "Bingó",
+        "fajta": "Dansk-Svensk Gårdshund",
+        "eletkor": "13",
+        "utolso": "2017.03.08"
+    },
+    {
+        "nev": "Blackie",
+        "fajta": "Collie Smooth",
+        "eletkor": "17",
+        "utolso": "2017.11.13"
+    },
+    {
+        "nev": "Blackie",
+        "fajta": "Berger de Brie",
+        "eletkor": "14",
+        "utolso": "2017.07.11"
+    },
+    {
+        "nev": "Blackie",
+        "fajta": "Irish Glen of Imaal Terrier",
+        "eletkor": "12",
+        "utolso": "2017.11.15"
+    },
+    {
+        "nev": "Blackie",
+        "fajta": "Bluetick Coonhound",
+        "eletkor": "8",
+        "utolso": "2017.12.04"
+    },
+    {
+        "nev": "Blackie",
+        "fajta": "Basset Fauve de Bretagne",
+        "eletkor": "1",
+        "utolso": "2018.02.10"
+    },
+    {
+        "nev": "Blacky",
+        "fajta": "Rottweiler",
+        "eletkor": "11",
+        "utolso": "2017.12.20"
+    },
+    {
+        "nev": "Blecky",
+        "fajta": "Malinois",
+        "eletkor": "15",
+        "utolso": "2018.01.14"
+    },
+    {
+        "nev": "Blöki",
+        "fajta": "Deutscher Jagdterrier",
+        "eletkor": "3",
+        "utolso": "2017.12.23"
+    },
+    {
+        "nev": "Bó",
+        "fajta": "Chien Français Blanc et Noir",
+        "eletkor": "8",
+        "utolso": "2017.05.24"
+    },
+    {
+        "nev": "Bobby",
+        "fajta": "Cane da pastore Bergamasco",
+        "eletkor": "10",
+        "utolso": "2017.12.09"
+    },
+    {
+        "nev": "Bobby",
+        "fajta": "Mastín español",
+        "eletkor": "6",
+        "utolso": "2017.02.28"
+    },
+    {
+        "nev": "Bobó",
+        "fajta": "Irish Water Spaniel",
+        "eletkor": "5",
+        "utolso": "2017.03.19"
+    },
+    {
+        "nev": "Bogi",
+        "fajta": "Staffordshire Bullterrier",
+        "eletkor": "7",
+        "utolso": "2018.02.12"
+    },
+    {
+        "nev": "Bojti",
+        "fajta": "Moskovskaya Dog",
+        "eletkor": "13",
+        "utolso": "2017.05.05"
+    },
+    {
+        "nev": "Bojti",
+        "fajta": "Perdiguero de Burgos",
+        "eletkor": "2",
+        "utolso": "2017.06.15"
+    },
+    {
+        "nev": "Bonnei",
+        "fajta": "Bayerischer Gebirgsschweisshund",
+        "eletkor": "1",
+        "utolso": "2018.01.29"
+    },
+    {
+        "nev": "Bono",
+        "fajta": "Shar Pei",
+        "eletkor": "18",
+        "utolso": "2017.03.29"
+    },
+    {
+        "nev": "Bono",
+        "fajta": "Eesti Hagijas",
+        "eletkor": "16",
+        "utolso": "2018.02.11"
+    },
+    {
+        "nev": "Bono",
+        "fajta": "Haldenstøver",
+        "eletkor": "3",
+        "utolso": "2017.07.21"
+    },
+    {
+        "nev": "Bono",
+        "fajta": "Grand Basset Griffon Vendéen",
+        "eletkor": "10",
+        "utolso": "2017.05.06"
+    },
+    {
+        "nev": "Bono",
+        "fajta": "Nova Scotia Duck Tolling Retriever",
+        "eletkor": "11",
+        "utolso": "2018.02.15"
+    },
+    {
+        "nev": "Bony",
+        "fajta": "Slovenský hrubosrstý Stavač",
+        "eletkor": "14",
+        "utolso": "2018.02.19"
+    },
+    {
+        "nev": "Bony",
+        "fajta": "Tibetan Spaniel",
+        "eletkor": "11",
+        "utolso": "2018.01.25"
+    },
+    {
+        "nev": "Boris",
+        "fajta": "Jämthund",
+        "eletkor": "15",
+        "utolso": "2018.01.24"
+    },
+    {
+        "nev": "Börni",
+        "fajta": "Griffon d’arrêt à poil dur Korthals",
+        "eletkor": "18",
+        "utolso": "2018.02.14"
+    },
+    {
+        "nev": "Börni",
+        "fajta": "Manchester Terrier",
+        "eletkor": "3",
+        "utolso": "2017.08.02"
+    },
+    {
+        "nev": "Bosco",
+        "fajta": "Coban Köpegi",
+        "eletkor": "8",
+        "utolso": "2017.05.22"
+    },
+    {
+        "nev": "Boti",
+        "fajta": "Beagle Harrier",
+        "eletkor": "13",
+        "utolso": "2017.05.02"
+    },
+    {
+        "nev": "Boti",
+        "fajta": "Anglo-français de petite vénerie",
+        "eletkor": "1",
+        "utolso": "2018.02.05"
+    },
+    {
+        "nev": "Boti",
+        "fajta": "Lagotto Romagnolo",
+        "eletkor": "11",
+        "utolso": "2017.07.29"
+    },
+    {
+        "nev": "Boti",
+        "fajta": "Curly Coated Retriever",
+        "eletkor": "8",
+        "utolso": "2017.05.05"
+    },
+    {
+        "nev": "Boti",
+        "fajta": "Deutscher Boxer",
+        "eletkor": "11",
+        "utolso": "2017.09.19"
+    },
+    {
+        "nev": "Botond",
+        "fajta": "Schwyzer Laufhund",
+        "eletkor": "9",
+        "utolso": "2017.04.08"
+    },
+    {
+        "nev": "Boxos",
+        "fajta": "Irish Water Spaniel",
+        "eletkor": "6",
+        "utolso": "2017.10.26"
+    },
+    {
+        "nev": "Breien",
+        "fajta": "American Foxhound",
+        "eletkor": "7",
+        "utolso": "2017.05.20"
+    },
+    {
+        "nev": "Breien",
+        "fajta": "Grand Griffon Vendéen",
+        "eletkor": "17",
+        "utolso": "2017.09.23"
+    },
+    {
+        "nev": "Breien",
+        "fajta": "Grosser Münsterländer Vorstehhund",
+        "eletkor": "11",
+        "utolso": "2017.08.08"
+    },
+    {
+        "nev": "Breien",
+        "fajta": "Deutsch Kurzhaar",
+        "eletkor": "11",
+        "utolso": "2017.10.06"
+    },
+    {
+        "nev": "Breien",
+        "fajta": "Dalmatinac",
+        "eletkor": "15",
+        "utolso": "2018.02.20"
+    },
+    {
+        "nev": "Bronzó",
+        "fajta": "Siberian Husky",
+        "eletkor": "8",
+        "utolso": "2017.10.31"
+    },
+    {
+        "nev": "Brutus",
+        "fajta": "Chambray",
+        "eletkor": "10",
+        "utolso": "2017.06.23"
+    },
+    {
+        "nev": "Brutus",
+        "fajta": "Black Terrier",
+        "eletkor": "5",
+        "utolso": "2017.06.27"
+    },
+    {
+        "nev": "Buli",
+        "fajta": "Pumi",
+        "eletkor": "10",
+        "utolso": "2017.05.31"
+    },
+    {
+        "nev": "Buli",
+        "fajta": "English Coonhound",
+        "eletkor": "3",
+        "utolso": "2017.09.28"
+    },
+    {
+        "nev": "Buli",
+        "fajta": "Eurasian",
+        "eletkor": "15",
+        "utolso": "2017.11.05"
+    },
+    {
+        "nev": "Carrie",
+        "fajta": "Lakeland Terrier",
+        "eletkor": "14",
+        "utolso": "2017.07.30"
+    },
+    {
+        "nev": "Casper",
+        "fajta": "Ciobanesc Romanesc de Bucovina",
+        "eletkor": "8",
+        "utolso": "2017.05.01"
+    },
+    {
+        "nev": "Casper",
+        "fajta": "Collie Rough",
+        "eletkor": "6",
+        "utolso": "2017.04.28"
+    },
+    {
+        "nev": "Castor",
+        "fajta": "Mops – Pug – Carlin",
+        "eletkor": "12",
+        "utolso": "2017.10.12"
+    },
+    {
+        "nev": "Castor",
+        "fajta": "Suomenlapinkoira",
+        "eletkor": "2",
+        "utolso": "2018.01.08"
+    },
+    {
+        "nev": "Castor",
+        "fajta": "Pointer",
+        "eletkor": "2",
+        "utolso": "2017.11.16"
+    },
+    {
+        "nev": "Castro",
+        "fajta": "Podenco Canario",
+        "eletkor": "2",
+        "utolso": "2017.04.23"
+    },
+    {
+        "nev": "Castro",
+        "fajta": "Zapadno-Sibirskaïa Laïka",
+        "eletkor": "9",
+        "utolso": "2018.01.28"
+    },
+    {
+        "nev": "Castro",
+        "fajta": "Ciobanesc Romanesc de Bucovina",
+        "eletkor": "14",
+        "utolso": "2017.04.02"
+    },
+    {
+        "nev": "Chanel",
+        "fajta": "Kavkazskaïa Ovtcharka",
+        "eletkor": "1",
+        "utolso": "2017.02.28"
+    },
+    {
+        "nev": "Chanel",
+        "fajta": "Spinone Italiano",
+        "eletkor": "14",
+        "utolso": "2017.06.12"
+    },
+    {
+        "nev": "Charlie",
+        "fajta": "Français Blanc et Orange",
+        "eletkor": "15",
+        "utolso": "2017.09.23"
+    },
+    {
+        "nev": "Charlie",
+        "fajta": "Australian Silky Terrier",
+        "eletkor": "9",
+        "utolso": "2017.07.17"
+    },
+    {
+        "nev": "Chili",
+        "fajta": "Mops – Pug – Carlin",
+        "eletkor": "14",
+        "utolso": "2017.11.04"
+    },
+    {
+        "nev": "Chili",
+        "fajta": "Slovenskў Kopov",
+        "eletkor": "1",
+        "utolso": "2017.09.12"
+    },
+    {
+        "nev": "Chili",
+        "fajta": "Eesti Hagijas",
+        "eletkor": "3",
+        "utolso": "2018.02.23"
+    },
+    {
+        "nev": "Chili",
+        "fajta": "Steirische Rauhhaarbracke",
+        "eletkor": "4",
+        "utolso": "2018.01.06"
+    },
+    {
+        "nev": "Cimi",
+        "fajta": "Slovenský Ćuvać",
+        "eletkor": "8",
+        "utolso": "2018.01.07"
+    },
+    {
+        "nev": "Cimi",
+        "fajta": "Poitevin",
+        "eletkor": "13",
+        "utolso": "2017.07.29"
+    },
+    {
+        "nev": "Cimi",
+        "fajta": "Stabyhoun",
+        "eletkor": "1",
+        "utolso": "2017.07.19"
+    },
+    {
+        "nev": "Cipő",
+        "fajta": "American Eskimo Dog",
+        "eletkor": "7",
+        "utolso": "2017.05.12"
+    },
+    {
+        "nev": "Cipő",
+        "fajta": "Norrbottenspets",
+        "eletkor": "11",
+        "utolso": "2017.03.17"
+    },
+    {
+        "nev": "Cipő",
+        "fajta": "Braque français, type Gascogne",
+        "eletkor": "18",
+        "utolso": "2017.08.30"
+    },
+    {
+        "nev": "Cleo",
+        "fajta": "Cão Fila de São Miguel",
+        "eletkor": "17",
+        "utolso": "2017.10.18"
+    },
+    {
+        "nev": "Cleo",
+        "fajta": "Ciobanesc Romanesc de Bucovina",
+        "eletkor": "15",
+        "utolso": "2017.04.22"
+    },
+    {
+        "nev": "Cleo",
+        "fajta": "Griffon Fauve de Bretagne",
+        "eletkor": "8",
+        "utolso": "2018.01.16"
+    },
+    {
+        "nev": "Coctail",
+        "fajta": "Gos d’Atura Catala",
+        "eletkor": "11",
+        "utolso": "2017.03.12"
+    },
+    {
+        "nev": "Coctail",
+        "fajta": "Hollandse Herdershond Ruwhaar",
+        "eletkor": "3",
+        "utolso": "2017.08.01"
+    },
+    {
+        "nev": "Cody",
+        "fajta": "Welsh Terrier",
+        "eletkor": "8",
+        "utolso": "2017.03.18"
+    },
+    {
+        "nev": "Cody",
+        "fajta": "Miniature Caniche",
+        "eletkor": "12",
+        "utolso": "2017.12.06"
+    },
+    {
+        "nev": "Cody",
+        "fajta": "Basset Fauve de Bretagne",
+        "eletkor": "13",
+        "utolso": "2017.07.05"
+    },
+    {
+        "nev": "Cody",
+        "fajta": "Rhodesian Ridgeback",
+        "eletkor": "17",
+        "utolso": "2017.03.31"
+    },
+    {
+        "nev": "Conen",
+        "fajta": "Beagle",
+        "eletkor": "4",
+        "utolso": "2018.01.22"
+    },
+    {
+        "nev": "Conen",
+        "fajta": "Norsk Buhund",
+        "eletkor": "10",
+        "utolso": "2017.09.17"
+    },
+    {
+        "nev": "Conen",
+        "fajta": "Steinbracke",
+        "eletkor": "14",
+        "utolso": "2018.01.27"
+    },
+    {
+        "nev": "Connor",
+        "fajta": "King Charles Spaniel",
+        "eletkor": "12",
+        "utolso": "2017.02.26"
+    },
+    {
+        "nev": "Cooper",
+        "fajta": "Steinbracke",
+        "eletkor": "6",
+        "utolso": "2017.08.07"
+    },
+    {
+        "nev": "Corenis",
+        "fajta": "Istarski Kratkodlaki Gonič",
+        "eletkor": "9",
+        "utolso": "2018.01.24"
+    },
+    {
+        "nev": "Corenis",
+        "fajta": "Welsh Corgi Cardigan",
+        "eletkor": "8",
+        "utolso": "2018.01.19"
+    },
+    {
+        "nev": "Corenis",
+        "fajta": "Cesky Fousek",
+        "eletkor": "11",
+        "utolso": "2017.09.20"
+    },
+    {
+        "nev": "Corenis",
+        "fajta": "Drótszőrű magyar vizsla",
+        "eletkor": "15",
+        "utolso": "2017.09.23"
+    },
+    {
+        "nev": "Csabesz",
+        "fajta": "Basset d'Artois",
+        "eletkor": "7",
+        "utolso": "2017.04.07"
+    },
+    {
+        "nev": "Csabesz",
+        "fajta": "Eurasian",
+        "eletkor": "7",
+        "utolso": "2018.01.11"
+    },
+    {
+        "nev": "Csabesz",
+        "fajta": "Petit Bleu de Gascogne",
+        "eletkor": "13",
+        "utolso": "2018.01.24"
+    },
+    {
+        "nev": "Csele",
+        "fajta": "Weimaraner",
+        "eletkor": "16",
+        "utolso": "2017.08.04"
+    },
+    {
+        "nev": "Csele",
+        "fajta": "Norsk Lundehund",
+        "eletkor": "6",
+        "utolso": "2017.08.01"
+    },
+    {
+        "nev": "Csele",
+        "fajta": "Hygenhund",
+        "eletkor": "8",
+        "utolso": "2017.04.08"
+    },
+    {
+        "nev": "Csibész",
+        "fajta": "Spinone Italiano",
+        "eletkor": "9",
+        "utolso": "2017.11.23"
+    },
+    {
+        "nev": "Csibész",
+        "fajta": "Border Collie",
+        "eletkor": "14",
+        "utolso": "2017.04.15"
+    },
+    {
+        "nev": "Csiri",
+        "fajta": "Border Terrier",
+        "eletkor": "5",
+        "utolso": "2017.12.23"
+    },
+    {
+        "nev": "Csocso",
+        "fajta": "Segugio Italiano a Pelo Forte",
+        "eletkor": "1",
+        "utolso": "2017.11.29"
+    },
+    {
+        "nev": "Csocso",
+        "fajta": "Schwyzer Niederlaufhund",
+        "eletkor": "3",
+        "utolso": "2017.12.28"
+    },
+    {
+        "nev": "Csocso",
+        "fajta": "Moskovskaya Dog",
+        "eletkor": "10",
+        "utolso": "2017.10.23"
+    },
+    {
+        "nev": "Csocso",
+        "fajta": "Redbone Coonhound",
+        "eletkor": "2",
+        "utolso": "2017.07.12"
+    },
+    {
+        "nev": "Csöpi",
+        "fajta": "Landseer",
+        "eletkor": "8",
+        "utolso": "2018.01.19"
+    },
+    {
+        "nev": "Csöpi",
+        "fajta": "Stabyhoun",
+        "eletkor": "10",
+        "utolso": "2017.03.26"
+    },
+    {
+        "nev": "Cyri",
+        "fajta": "Coton de Tuléar",
+        "eletkor": "1",
+        "utolso": "2017.12.05"
+    },
+    {
+        "nev": "Cyri",
+        "fajta": "Perro sin pelo del Perú",
+        "eletkor": "4",
+        "utolso": "2017.08.21"
+    },
+    {
+        "nev": "Cyri",
+        "fajta": "Akbash",
+        "eletkor": "10",
+        "utolso": "2017.08.20"
+    },
+    {
+        "nev": "Dave",
+        "fajta": "Chien Français Tricolore",
+        "eletkor": "9",
+        "utolso": "2017.04.13"
+    },
+    {
+        "nev": "Dave",
+        "fajta": "American Water Spaniel",
+        "eletkor": "2",
+        "utolso": "2017.10.15"
+    },
+    {
+        "nev": "Deb",
+        "fajta": "Manchester Terrier",
+        "eletkor": "5",
+        "utolso": "2017.07.10"
+    },
+    {
+        "nev": "Deb",
+        "fajta": "Braque français, type Gascogne",
+        "eletkor": "4",
+        "utolso": "2017.09.08"
+    },
+    {
+        "nev": "Deni",
+        "fajta": "Kromfohrländer",
+        "eletkor": "8",
+        "utolso": "2017.09.03"
+    },
+    {
+        "nev": "Deni",
+        "fajta": "Shih Tzu",
+        "eletkor": "13",
+        "utolso": "2017.08.10"
+    },
+    {
+        "nev": "Denisz",
+        "fajta": "Xoloitzcuintle",
+        "eletkor": "9",
+        "utolso": "2018.02.07"
+    },
+    {
+        "nev": "Denisz",
+        "fajta": "Tornjak",
+        "eletkor": "4",
+        "utolso": "2017.04.14"
+    },
+    {
+        "nev": "Denisz",
+        "fajta": "Dobermann",
+        "eletkor": "18",
+        "utolso": "2017.10.23"
+    },
+    {
+        "nev": "Denisz",
+        "fajta": "Shar Pei",
+        "eletkor": "5",
+        "utolso": "2017.09.12"
+    },
+    {
+        "nev": "Dennis",
+        "fajta": "Braque Belge",
+        "eletkor": "14",
+        "utolso": "2017.10.13"
+    },
+    {
+        "nev": "Dennis",
+        "fajta": "Russkaya Psovaya Borzaya",
+        "eletkor": "8",
+        "utolso": "2017.09.01"
+    },
+    {
+        "nev": "Dennis",
+        "fajta": "Coton de Tuléar",
+        "eletkor": "17",
+        "utolso": "2017.07.15"
+    },
+    {
+        "nev": "Dennis",
+        "fajta": "Podenco Canario",
+        "eletkor": "11",
+        "utolso": "2017.03.22"
+    },
+    {
+        "nev": "Dennis",
+        "fajta": "Cirneco dell'Etna",
+        "eletkor": "7",
+        "utolso": "2017.09.16"
+    },
+    {
+        "nev": "Dennis",
+        "fajta": "Chien de Saint-Hubert",
+        "eletkor": "16",
+        "utolso": "2017.04.22"
+    },
+    {
+        "nev": "Denny",
+        "fajta": "Segugio Italiano a Pelo Forte",
+        "eletkor": "7",
+        "utolso": "2017.10.11"
+    },
+    {
+        "nev": "Deny",
+        "fajta": "Deutscher Kleinspitz",
+        "eletkor": "16",
+        "utolso": "2017.11.19"
+    },
+    {
+        "nev": "Deny",
+        "fajta": "Pastore Siriano",
+        "eletkor": "2",
+        "utolso": "2017.05.03"
+    },
+    {
+        "nev": "Dexter",
+        "fajta": "Deerhound",
+        "eletkor": "11",
+        "utolso": "2017.08.11"
+    },
+    {
+        "nev": "Dexter",
+        "fajta": "Grand Anglo-Français Blanc et Noir",
+        "eletkor": "11",
+        "utolso": "2018.01.25"
+    },
+    {
+        "nev": "Dexter",
+        "fajta": "Bernese Laufhund",
+        "eletkor": "15",
+        "utolso": "2018.01.01"
+    },
+    {
+        "nev": "Dexter",
+        "fajta": "Terrier Brasileiro",
+        "eletkor": "18",
+        "utolso": "2017.04.14"
+    },
+    {
+        "nev": "Dini",
+        "fajta": "Griffon á Poil Laineux",
+        "eletkor": "5",
+        "utolso": "2017.04.23"
+    },
+    {
+        "nev": "Disney",
+        "fajta": "Standard Caniche",
+        "eletkor": "2",
+        "utolso": "2017.12.02"
+    },
+    {
+        "nev": "Disney",
+        "fajta": "Grand Anglo-Français Blanc et Orange",
+        "eletkor": "11",
+        "utolso": "2017.05.30"
+    },
+    {
+        "nev": "Dodó",
+        "fajta": "Bouledogue français",
+        "eletkor": "1",
+        "utolso": "2017.03.15"
+    },
+    {
+        "nev": "Dodó",
+        "fajta": "Airedale Terrier",
+        "eletkor": "8",
+        "utolso": "2017.10.20"
+    },
+    {
+        "nev": "Dodó",
+        "fajta": "Shih Tzu",
+        "eletkor": "3",
+        "utolso": "2017.02.27"
+    },
+    {
+        "nev": "Domino",
+        "fajta": "Zapadno-Sibirskaïa Laïka",
+        "eletkor": "15",
+        "utolso": "2017.12.22"
+    },
+    {
+        "nev": "Domino",
+        "fajta": "Treeing Walker Coonhound",
+        "eletkor": "6",
+        "utolso": "2017.09.18"
+    },
+    {
+        "nev": "Donáld",
+        "fajta": "Mastín del Pirineo",
+        "eletkor": "9",
+        "utolso": "2017.04.03"
+    },
+    {
+        "nev": "Donáld",
+        "fajta": "Norfolk Terrier",
+        "eletkor": "12",
+        "utolso": "2018.01.15"
+    },
+    {
+        "nev": "Dzsángó",
+        "fajta": "Drever",
+        "eletkor": "18",
+        "utolso": "2017.03.28"
+    },
+    {
+        "nev": "Dzseki",
+        "fajta": "Srpski Gonič",
+        "eletkor": "7",
+        "utolso": "2017.03.02"
+    },
+    {
+        "nev": "Dzseki",
+        "fajta": "Cão de Agua Português",
+        "eletkor": "13",
+        "utolso": "2017.03.16"
+    },
+    {
+        "nev": "Dzseki",
+        "fajta": "Shiba",
+        "eletkor": "8",
+        "utolso": "2017.06.22"
+    },
+    {
+        "nev": "Dzseni",
+        "fajta": "Pudelpointer",
+        "eletkor": "15",
+        "utolso": "2017.09.15"
+    },
+    {
+        "nev": "Dzseni",
+        "fajta": "Kintamani",
+        "eletkor": "3",
+        "utolso": "2018.01.10"
+    },
+    {
+        "nev": "Dzseni",
+        "fajta": "Griffon á Poil Laineux",
+        "eletkor": "11",
+        "utolso": "2018.02.04"
+    },
+    {
+        "nev": "Dzseni",
+        "fajta": "Brandlbracke – Vieräugl",
+        "eletkor": "10",
+        "utolso": "2017.07.31"
+    },
+    {
+        "nev": "Dzsina",
+        "fajta": "Latvijas Dzinejsuns",
+        "eletkor": "16",
+        "utolso": "2017.10.23"
+    },
+    {
+        "nev": "Dzsina",
+        "fajta": "Drótszőrű magyar vizsla",
+        "eletkor": "13",
+        "utolso": "2017.06.12"
+    },
+    {
+        "nev": "Dzsuli",
+        "fajta": "Irish Wolfhound",
+        "eletkor": "18",
+        "utolso": "2017.04.01"
+    },
+    {
+        "nev": "Dzsuli",
+        "fajta": "Schwyzer Niederlaufhund",
+        "eletkor": "17",
+        "utolso": "2018.01.02"
+    },
+    {
+        "nev": "Dzsuli",
+        "fajta": "Cane da pastore Bergamasco",
+        "eletkor": "5",
+        "utolso": "2017.05.15"
+    },
+    {
+        "nev": "Dzsuli",
+        "fajta": "English Springer Spaniel",
+        "eletkor": "1",
+        "utolso": "2017.12.12"
+    },
+    {
+        "nev": "Edu",
+        "fajta": "Groenendael",
+        "eletkor": "10",
+        "utolso": "2017.09.16"
+    },
+    {
+        "nev": "Emi",
+        "fajta": "Irish Water Spaniel",
+        "eletkor": "14",
+        "utolso": "2018.01.24"
+    },
+    {
+        "nev": "Eminem",
+        "fajta": "Piccolo Levriero Italiano",
+        "eletkor": "3",
+        "utolso": "2017.12.03"
+    },
+    {
+        "nev": "Eric",
+        "fajta": "Pekingese",
+        "eletkor": "8",
+        "utolso": "2017.05.04"
+    },
+    {
+        "nev": "Eric",
+        "fajta": "Braque d’Auvergne",
+        "eletkor": "6",
+        "utolso": "2017.04.28"
+    },
+    {
+        "nev": "Eron",
+        "fajta": "Lakeland Terrier",
+        "eletkor": "3",
+        "utolso": "2017.12.18"
+    },
+    {
+        "nev": "Eron",
+        "fajta": "Epagneul bleu de Picardie",
+        "eletkor": "13",
+        "utolso": "2017.12.03"
+    },
+    {
+        "nev": "Eron",
+        "fajta": "Kavkazskaïa Ovtcharka",
+        "eletkor": "18",
+        "utolso": "2018.01.03"
+    },
+    {
+        "nev": "Etnis",
+        "fajta": "Samoiedskaïa Sabaka",
+        "eletkor": "18",
+        "utolso": "2017.10.09"
+    },
+    {
+        "nev": "Etnis",
+        "fajta": "Großspitz",
+        "eletkor": "15",
+        "utolso": "2018.02.26"
+    },
+    {
+        "nev": "Etnis",
+        "fajta": "Chien de Saint-Hubert",
+        "eletkor": "18",
+        "utolso": "2017.11.05"
+    },
+    {
+        "nev": "Fidó",
+        "fajta": "Pharaoh Hound",
+        "eletkor": "6",
+        "utolso": "2017.04.17"
+    },
+    {
+        "nev": "Fifu",
+        "fajta": "Wetterhoun",
+        "eletkor": "12",
+        "utolso": "2017.06.08"
+    },
+    {
+        "nev": "Fifu",
+        "fajta": "Gos d’Atura Catala",
+        "eletkor": "7",
+        "utolso": "2017.11.05"
+    },
+    {
+        "nev": "Fifu",
+        "fajta": "Siberian Husky",
+        "eletkor": "1",
+        "utolso": "2017.03.28"
+    },
+    {
+        "nev": "Fifu",
+        "fajta": "Deutscher Mittelspitz",
+        "eletkor": "18",
+        "utolso": "2017.04.11"
+    },
+    {
+        "nev": "Filo",
+        "fajta": "Alano Español",
+        "eletkor": "18",
+        "utolso": "2017.04.22"
+    },
+    {
+        "nev": "Frodó",
+        "fajta": "Saluki",
+        "eletkor": "14",
+        "utolso": "2017.11.27"
+    },
+    {
+        "nev": "Frodó",
+        "fajta": "Plott Hound",
+        "eletkor": "2",
+        "utolso": "2017.12.11"
+    },
+    {
+        "nev": "Frosty",
+        "fajta": "Kavkazskaïa Ovtcharka",
+        "eletkor": "14",
+        "utolso": "2017.11.01"
+    },
+    {
+        "nev": "Frosty",
+        "fajta": "Bolonka Franzuska",
+        "eletkor": "12",
+        "utolso": "2017.08.30"
+    },
+    {
+        "nev": "Gibby",
+        "fajta": "Berger de Picardie – Berger Picard",
+        "eletkor": "1",
+        "utolso": "2017.07.26"
+    },
+    {
+        "nev": "Gino",
+        "fajta": "Deutscher Boxer",
+        "eletkor": "9",
+        "utolso": "2017.09.19"
+    },
+    {
+        "nev": "Gino",
+        "fajta": "Deutsch Kurzhaar",
+        "eletkor": "4",
+        "utolso": "2017.05.04"
+    },
+    {
+        "nev": "Gino",
+        "fajta": "Leonberger",
+        "eletkor": "10",
+        "utolso": "2017.08.19"
+    },
+    {
+        "nev": "Gino",
+        "fajta": "Sussex Spaniel",
+        "eletkor": "15",
+        "utolso": "2018.01.13"
+    },
+    {
+        "nev": "Gino",
+        "fajta": "Mastín español",
+        "eletkor": "4",
+        "utolso": "2017.09.05"
+    },
+    {
+        "nev": "Gizi",
+        "fajta": "Latvijas Dzinejsuns",
+        "eletkor": "9",
+        "utolso": "2017.05.19"
+    },
+    {
+        "nev": "Gizi",
+        "fajta": "Irish Terrirer",
+        "eletkor": "8",
+        "utolso": "2018.01.20"
+    },
+    {
+        "nev": "Gizi",
+        "fajta": "Grosser Schweizer Sennenhund",
+        "eletkor": "5",
+        "utolso": "2018.02.07"
+    },
+    {
+        "nev": "Goldie",
+        "fajta": "Taiwan Dog",
+        "eletkor": "15",
+        "utolso": "2017.05.12"
+    },
+    {
+        "nev": "Goldie",
+        "fajta": "Norsk Buhund",
+        "eletkor": "12",
+        "utolso": "2017.11.18"
+    },
+    {
+        "nev": "Goldy",
+        "fajta": "Shih Tzu",
+        "eletkor": "10",
+        "utolso": "2017.03.23"
+    },
+    {
+        "nev": "Goldy",
+        "fajta": "Ogar polski",
+        "eletkor": "14",
+        "utolso": "2017.09.22"
+    },
+    {
+        "nev": "Goldy",
+        "fajta": "Cavalier King Charles Spaniel",
+        "eletkor": "12",
+        "utolso": "2017.09.22"
+    },
+    {
+        "nev": "Goldy",
+        "fajta": "Boykin Spaniel",
+        "eletkor": "10",
+        "utolso": "2018.01.21"
+    },
+    {
+        "nev": "Gólem",
+        "fajta": "Petit Bleu de Gascogne",
+        "eletkor": "13",
+        "utolso": "2018.02.09"
+    },
+    {
+        "nev": "Gólem",
+        "fajta": "Bosanski Ostrodlaki Gonič – Barak",
+        "eletkor": "1",
+        "utolso": "2018.01.10"
+    },
+    {
+        "nev": "Gólem",
+        "fajta": "Irish Red Setter",
+        "eletkor": "14",
+        "utolso": "2017.08.27"
+    },
+    {
+        "nev": "Gólem",
+        "fajta": "Drótszőrű magyar vizsla",
+        "eletkor": "9",
+        "utolso": "2017.09.22"
+    },
+    {
+        "nev": "Golfi",
+        "fajta": "Kavkazskaïa Ovtcharka",
+        "eletkor": "15",
+        "utolso": "2017.08.15"
+    },
+    {
+        "nev": "Golfi",
+        "fajta": "American Eskimo Dog",
+        "eletkor": "17",
+        "utolso": "2017.08.23"
+    },
+    {
+        "nev": "Golyó",
+        "fajta": "Tiroler Bracke",
+        "eletkor": "15",
+        "utolso": "2017.09.13"
+    },
+    {
+        "nev": "Golyó",
+        "fajta": "Hovawart",
+        "eletkor": "18",
+        "utolso": "2017.04.06"
+    },
+    {
+        "nev": "Golyó",
+        "fajta": "Zwergspitz",
+        "eletkor": "16",
+        "utolso": "2018.01.04"
+    },
+    {
+        "nev": "Golyó",
+        "fajta": "Griffon Nivernais",
+        "eletkor": "9",
+        "utolso": "2017.08.03"
+    },
+    {
+        "nev": "Golyó",
+        "fajta": "Grosser Münsterländer Vorstehhund",
+        "eletkor": "6",
+        "utolso": "2017.04.12"
+    },
+    {
+        "nev": "Google",
+        "fajta": "Xoloitzcuintle",
+        "eletkor": "14",
+        "utolso": "2018.01.11"
+    },
+    {
+        "nev": "Google",
+        "fajta": "Nova Scotia Duck Tolling Retriever",
+        "eletkor": "10",
+        "utolso": "2017.04.19"
+    },
+    {
+        "nev": "Google",
+        "fajta": "Yorkshire Terrier",
+        "eletkor": "5",
+        "utolso": "2017.06.02"
+    },
+    {
+        "nev": "Google",
+        "fajta": "Schillerstövare",
+        "eletkor": "14",
+        "utolso": "2018.02.25"
+    },
+    {
+        "nev": "Gray",
+        "fajta": "Appenzeller Sennenhund",
+        "eletkor": "6",
+        "utolso": "2017.06.09"
+    },
+    {
+        "nev": "Gray",
+        "fajta": "Deerhound",
+        "eletkor": "13",
+        "utolso": "2017.05.04"
+    },
+    {
+        "nev": "Gray",
+        "fajta": "American Pit Bullterrier",
+        "eletkor": "5",
+        "utolso": "2018.01.03"
+    },
+    {
+        "nev": "Gray",
+        "fajta": "Dunker",
+        "eletkor": "5",
+        "utolso": "2017.12.19"
+    },
+    {
+        "nev": "Gringó",
+        "fajta": "Afghan Hound",
+        "eletkor": "11",
+        "utolso": "2017.06.05"
+    },
+    {
+        "nev": "Gringó",
+        "fajta": "Kishu",
+        "eletkor": "7",
+        "utolso": "2017.08.30"
+    },
+    {
+        "nev": "Gringó",
+        "fajta": "West Highland White Terrier",
+        "eletkor": "9",
+        "utolso": "2017.06.24"
+    },
+    {
+        "nev": "Hannibál",
+        "fajta": "Keeshond",
+        "eletkor": "11",
+        "utolso": "2017.02.27"
+    },
+    {
+        "nev": "Harcos",
+        "fajta": "Bouvier des Ardennes",
+        "eletkor": "11",
+        "utolso": "2017.03.17"
+    },
+    {
+        "nev": "Harcos",
+        "fajta": "Deutscher Kleinspitz",
+        "eletkor": "10",
+        "utolso": "2017.08.17"
+    },
+    {
+        "nev": "Hector",
+        "fajta": "Braque du Bourbonnais",
+        "eletkor": "3",
+        "utolso": "2017.08.25"
+    },
+    {
+        "nev": "Hepi",
+        "fajta": "American Staffordshire Terrier",
+        "eletkor": "4",
+        "utolso": "2017.04.15"
+    },
+    {
+        "nev": "Hepi",
+        "fajta": "Svensk Lapphund",
+        "eletkor": "1",
+        "utolso": "2017.03.13"
+    },
+    {
+        "nev": "Hepi",
+        "fajta": "Steinbracke",
+        "eletkor": "10",
+        "utolso": "2018.01.07"
+    },
+    {
+        "nev": "Hepi",
+        "fajta": "English Shepherd",
+        "eletkor": "11",
+        "utolso": "2017.09.28"
+    },
+    {
+        "nev": "Hepi",
+        "fajta": "Otterhound",
+        "eletkor": "12",
+        "utolso": "2017.12.11"
+    },
+    {
+        "nev": "Hepi",
+        "fajta": "Cirneco dell'Etna",
+        "eletkor": "17",
+        "utolso": "2018.01.23"
+    },
+    {
+        "nev": "Hópihe",
+        "fajta": "Australian Stumpy Tail Cattle Dog",
+        "eletkor": "6",
+        "utolso": "2017.06.08"
+    },
+    {
+        "nev": "Houdini",
+        "fajta": "Kai",
+        "eletkor": "12",
+        "utolso": "2017.05.24"
+    },
+    {
+        "nev": "Huncut",
+        "fajta": "Barbet",
+        "eletkor": "9",
+        "utolso": "2017.07.16"
+    },
+    {
+        "nev": "Huncut",
+        "fajta": "Pumi",
+        "eletkor": "16",
+        "utolso": "2018.01.31"
+    },
+    {
+        "nev": "Huncut",
+        "fajta": "Ciobănesc Românesc Carpatin",
+        "eletkor": "5",
+        "utolso": "2017.04.15"
+    },
+    {
+        "nev": "Huncutka",
+        "fajta": "Braque du Bourbonnais",
+        "eletkor": "14",
+        "utolso": "2017.04.26"
+    },
+    {
+        "nev": "Írisz",
+        "fajta": "Ariege-Hound",
+        "eletkor": "9",
+        "utolso": "2017.04.26"
+    },
+    {
+        "nev": "Isi",
+        "fajta": "Chien de Montagne des Pyrénées",
+        "eletkor": "2",
+        "utolso": "2017.03.25"
+    },
+    {
+        "nev": "Isi",
+        "fajta": "Biewer Yorkshire Terrier",
+        "eletkor": "15",
+        "utolso": "2017.06.12"
+    },
+    {
+        "nev": "Isi",
+        "fajta": "Griffon á Poil Laineux",
+        "eletkor": "16",
+        "utolso": "2017.05.29"
+    },
+    {
+        "nev": "Izabella",
+        "fajta": "Luzerner Laufhund",
+        "eletkor": "6",
+        "utolso": "2017.04.24"
+    },
+    {
+        "nev": "Izabella",
+        "fajta": "Jura Niederlaufhund",
+        "eletkor": "12",
+        "utolso": "2017.06.26"
+    },
+    {
+        "nev": "Jaffa",
+        "fajta": "Deutsch Langhaar",
+        "eletkor": "9",
+        "utolso": "2017.02.26"
+    },
+    {
+        "nev": "Jaffa",
+        "fajta": "Kooikerhondje",
+        "eletkor": "9",
+        "utolso": "2018.01.22"
+    },
+    {
+        "nev": "Jago",
+        "fajta": "Hannoverscher Schweisshund",
+        "eletkor": "5",
+        "utolso": "2017.10.15"
+    },
+    {
+        "nev": "Jago",
+        "fajta": "King Charles Spaniel",
+        "eletkor": "3",
+        "utolso": "2017.06.19"
+    },
+    {
+        "nev": "Jago",
+        "fajta": "Greyhound",
+        "eletkor": "16",
+        "utolso": "2017.06.16"
+    },
+    {
+        "nev": "Jakie",
+        "fajta": "Beagle Harrier",
+        "eletkor": "16",
+        "utolso": "2017.10.11"
+    },
+    {
+        "nev": "Jakie",
+        "fajta": "Weimaraner",
+        "eletkor": "11",
+        "utolso": "2017.12.06"
+    },
+    {
+        "nev": "Jasper",
+        "fajta": "Nihon Teria",
+        "eletkor": "4",
+        "utolso": "2017.11.05"
+    },
+    {
+        "nev": "Jasper",
+        "fajta": "Barbet",
+        "eletkor": "16",
+        "utolso": "2017.03.14"
+    },
+    {
+        "nev": "Jeny",
+        "fajta": "Eurasian",
+        "eletkor": "14",
+        "utolso": "2017.04.21"
+    },
+    {
+        "nev": "Jeny",
+        "fajta": "Ciobanesc Romanesc de Bucovina",
+        "eletkor": "16",
+        "utolso": "2018.02.25"
+    },
+    {
+        "nev": "Jessy",
+        "fajta": "Smålandsstövare",
+        "eletkor": "20",
+        "utolso": "2017.05.14"
+    },
+    {
+        "nev": "Jessy",
+        "fajta": "Deutsch Kurzhaar",
+        "eletkor": "8",
+        "utolso": "2017.09.26"
+    },
+    {
+        "nev": "Jhony",
+        "fajta": "Australian Kelpie",
+        "eletkor": "16",
+        "utolso": "2017.09.14"
+    },
+    {
+        "nev": "Jhony",
+        "fajta": "Bolognese",
+        "eletkor": "7",
+        "utolso": "2018.02.11"
+    },
+    {
+        "nev": "Jhony",
+        "fajta": "Jugoslovenski Ovcarski Pas – Sarplaninac",
+        "eletkor": "1",
+        "utolso": "2017.11.20"
+    },
+    {
+        "nev": "Jin",
+        "fajta": "Dogue de Bordeaux",
+        "eletkor": "2",
+        "utolso": "2017.06.12"
+    },
+    {
+        "nev": "Jin",
+        "fajta": "Braque Dupuy",
+        "eletkor": "15",
+        "utolso": "2017.11.27"
+    },
+    {
+        "nev": "Jin",
+        "fajta": "Crnogorski Planinski Gonič",
+        "eletkor": "7",
+        "utolso": "2017.09.26"
+    },
+    {
+        "nev": "Jin",
+        "fajta": "Pekingese",
+        "eletkor": "2",
+        "utolso": "2017.12.13"
+    },
+    {
+        "nev": "Johnny",
+        "fajta": "Sabueso Español",
+        "eletkor": "17",
+        "utolso": "2017.04.11"
+    },
+    {
+        "nev": "Joker",
+        "fajta": "Shetland Sheepdog",
+        "eletkor": "12",
+        "utolso": "2017.11.23"
+    },
+    {
+        "nev": "Joky",
+        "fajta": "American Eskimo Dog",
+        "eletkor": "4",
+        "utolso": "2017.06.29"
+    },
+    {
+        "nev": "Joky",
+        "fajta": "Ioujnorousskaia Ovtcharka",
+        "eletkor": "1",
+        "utolso": "2017.10.08"
+    },
+    {
+        "nev": "Jolly",
+        "fajta": "Basset d'Artois",
+        "eletkor": "5",
+        "utolso": "2017.04.16"
+    },
+    {
+        "nev": "Jolly",
+        "fajta": "Segugio Italiano a Pelo Raso",
+        "eletkor": "14",
+        "utolso": "2017.05.25"
+    },
+    {
+        "nev": "Josy",
+        "fajta": "Suomenpystykorva",
+        "eletkor": "7",
+        "utolso": "2017.12.31"
+    },
+    {
+        "nev": "Josy",
+        "fajta": "Drentsche Patrijshond",
+        "eletkor": "9",
+        "utolso": "2017.08.26"
+    },
+    {
+        "nev": "Junior",
+        "fajta": "Tornjak",
+        "eletkor": "6",
+        "utolso": "2017.12.13"
+    },
+    {
+        "nev": "Jyl",
+        "fajta": "Maltese",
+        "eletkor": "5",
+        "utolso": "2017.03.02"
+    },
+    {
+        "nev": "Kamino",
+        "fajta": "Drentsche Patrijshond",
+        "eletkor": "2",
+        "utolso": "2017.05.02"
+    },
+    {
+        "nev": "Kamino",
+        "fajta": "",
+        "eletkor": "4",
+        "utolso": "2017.08.20"
+    },
+    {
+        "nev": "Kávé",
+        "fajta": "American Eskimo Dog",
+        "eletkor": "1",
+        "utolso": "2018.02.25"
+    },
+    {
+        "nev": "Kávé",
+        "fajta": "Kintamani",
+        "eletkor": "13",
+        "utolso": "2017.10.03"
+    },
+    {
+        "nev": "Kávé",
+        "fajta": "Kromfohrländer",
+        "eletkor": "13",
+        "utolso": "2017.10.20"
+    },
+    {
+        "nev": "Kenny",
+        "fajta": "Basenji",
+        "eletkor": "18",
+        "utolso": "2017.08.13"
+    },
+    {
+        "nev": "Kenny",
+        "fajta": "Poitevin",
+        "eletkor": "8",
+        "utolso": "2017.04.29"
+    },
+    {
+        "nev": "Kenny",
+        "fajta": "Levesque",
+        "eletkor": "5",
+        "utolso": "2017.09.19"
+    },
+    {
+        "nev": "Kety",
+        "fajta": "Sredneasiatskaïa Ovtcharka",
+        "eletkor": "11",
+        "utolso": "2017.12.24"
+    },
+    {
+        "nev": "Kety",
+        "fajta": "Cão da Serra da Estrela",
+        "eletkor": "12",
+        "utolso": "2017.06.29"
+    },
+    {
+        "nev": "Killer",
+        "fajta": "Berger de Beauce",
+        "eletkor": "3",
+        "utolso": "2018.01.03"
+    },
+    {
+        "nev": "Kinder",
+        "fajta": "Jura Niederlaufhund",
+        "eletkor": "11",
+        "utolso": "2017.05.10"
+    },
+    {
+        "nev": "Kinder",
+        "fajta": "Griffon Nivernais",
+        "eletkor": "7",
+        "utolso": "2017.04.23"
+    },
+    {
+        "nev": "Kinder",
+        "fajta": "Sloughi",
+        "eletkor": "13",
+        "utolso": "2017.06.15"
+    },
+    {
+        "nev": "Kipper",
+        "fajta": "Haldenstøver",
+        "eletkor": "12",
+        "utolso": "2017.03.30"
+    },
+    {
+        "nev": "Kitty",
+        "fajta": "Australian Cattle Dog",
+        "eletkor": "11",
+        "utolso": "2017.06.18"
+    },
+    {
+        "nev": "Kitty",
+        "fajta": "Slovenskў Kopov",
+        "eletkor": "12",
+        "utolso": "2017.05.02"
+    },
+    {
+        "nev": "Kiwi",
+        "fajta": "Gontchaja Russkaja",
+        "eletkor": "1",
+        "utolso": "2017.10.09"
+    },
+    {
+        "nev": "Kiwi",
+        "fajta": "Kraski Ovčar",
+        "eletkor": "5",
+        "utolso": "2017.03.12"
+    },
+    {
+        "nev": "Kody",
+        "fajta": "American Staffordshire Terrier",
+        "eletkor": "4",
+        "utolso": "2017.09.26"
+    },
+    {
+        "nev": "Kody",
+        "fajta": "Grand Gascon Saintongeois",
+        "eletkor": "15",
+        "utolso": "2018.02.26"
+    },
+    {
+        "nev": "Kody",
+        "fajta": "Srpski Gonič",
+        "eletkor": "1",
+        "utolso": "2018.02.09"
+    },
+    {
+        "nev": "Kokó",
+        "fajta": "Chihuahueño",
+        "eletkor": "12",
+        "utolso": "2017.06.08"
+    },
+    {
+        "nev": "Kokó",
+        "fajta": "Alpenländische Dachsbracke",
+        "eletkor": "2",
+        "utolso": "2017.07.01"
+    },
+    {
+        "nev": "Kokó",
+        "fajta": "Toy Caniche",
+        "eletkor": "12",
+        "utolso": "2017.05.24"
+    },
+    {
+        "nev": "Kokó",
+        "fajta": "Whippet",
+        "eletkor": "11",
+        "utolso": "2017.10.27"
+    },
+    {
+        "nev": "Kokó",
+        "fajta": "Chien de Trait Belge",
+        "eletkor": "12",
+        "utolso": "2017.05.17"
+    },
+    {
+        "nev": "Krona",
+        "fajta": "Segugio Italiano a Pelo Forte",
+        "eletkor": "4",
+        "utolso": "2018.02.26"
+    },
+    {
+        "nev": "Krona",
+        "fajta": "Laekenois",
+        "eletkor": "15",
+        "utolso": "2017.10.26"
+    },
+    {
+        "nev": "Kukuc",
+        "fajta": "Groenendael",
+        "eletkor": "14",
+        "utolso": "2017.04.24"
+    },
+    {
+        "nev": "Kukuc",
+        "fajta": "Porcelaine",
+        "eletkor": "8",
+        "utolso": "2017.04.23"
+    },
+    {
+        "nev": "Kukuc",
+        "fajta": "Berger de Beauce",
+        "eletkor": "8",
+        "utolso": "2017.03.09"
+    },
+    {
+        "nev": "Leon",
+        "fajta": "Slovenský hrubosrstý Stavač",
+        "eletkor": "3",
+        "utolso": "2017.07.24"
+    },
+    {
+        "nev": "Letty",
+        "fajta": "Grosser Schweizer Sennenhund",
+        "eletkor": "10",
+        "utolso": "2017.11.14"
+    },
+    {
+        "nev": "Letty",
+        "fajta": "Telomian",
+        "eletkor": "4",
+        "utolso": "2017.07.21"
+    },
+    {
+        "nev": "Letty",
+        "fajta": "Brandlbracke – Vieräugl",
+        "eletkor": "18",
+        "utolso": "2018.02.09"
+    },
+    {
+        "nev": "Letty",
+        "fajta": "Ogar polski",
+        "eletkor": "2",
+        "utolso": "2017.09.29"
+    },
+    {
+        "nev": "Letty",
+        "fajta": "Bracco Italiano",
+        "eletkor": "12",
+        "utolso": "2017.08.16"
+    },
+    {
+        "nev": "Lexi",
+        "fajta": "Berger de Beauce",
+        "eletkor": "7",
+        "utolso": "2017.12.15"
+    },
+    {
+        "nev": "Lia",
+        "fajta": "Dachshund",
+        "eletkor": "5",
+        "utolso": "2017.09.06"
+    },
+    {
+        "nev": "Lia",
+        "fajta": "Spinone Italiano",
+        "eletkor": "8",
+        "utolso": "2017.05.26"
+    },
+    {
+        "nev": "Lia",
+        "fajta": "Clumber Spaniel",
+        "eletkor": "17",
+        "utolso": "2018.01.26"
+    },
+    {
+        "nev": "Lilike",
+        "fajta": "Bedlington Terrier",
+        "eletkor": "7",
+        "utolso": "2017.06.30"
+    },
+    {
+        "nev": "Lilike",
+        "fajta": "Rhodesian Ridgeback",
+        "eletkor": "16",
+        "utolso": "2017.04.01"
+    },
+    {
+        "nev": "Liló",
+        "fajta": "Suomenpystykorva",
+        "eletkor": "17",
+        "utolso": "2017.11.17"
+    },
+    {
+        "nev": "Liló",
+        "fajta": "Grand Anglo-Français Tricolore",
+        "eletkor": "2",
+        "utolso": "2017.11.22"
+    },
+    {
+        "nev": "Lilus",
+        "fajta": "Bichon à poil frisé",
+        "eletkor": "8",
+        "utolso": "2017.11.16"
+    },
+    {
+        "nev": "Lilus",
+        "fajta": "Hollandse Herdershond Ruwhaar",
+        "eletkor": "1",
+        "utolso": "2017.08.03"
+    },
+    {
+        "nev": "Lilus",
+        "fajta": "Luzerner Laufhund",
+        "eletkor": "1",
+        "utolso": "2017.09.26"
+    },
+    {
+        "nev": "Lilus",
+        "fajta": "Drever",
+        "eletkor": "1",
+        "utolso": "2017.11.15"
+    },
+    {
+        "nev": "Lilus",
+        "fajta": "Magyar agár",
+        "eletkor": "6",
+        "utolso": "2018.01.22"
+    },
+    {
+        "nev": "Lizy",
+        "fajta": "Shar Pei",
+        "eletkor": "5",
+        "utolso": "2018.01.20"
+    },
+    {
+        "nev": "Lizzy",
+        "fajta": "American Eskimo Dog",
+        "eletkor": "6",
+        "utolso": "2017.03.13"
+    },
+    {
+        "nev": "Lőlik",
+        "fajta": "Podengo Português",
+        "eletkor": "9",
+        "utolso": "2018.01.02"
+    },
+    {
+        "nev": "Lőlik",
+        "fajta": "Eurasian",
+        "eletkor": "16",
+        "utolso": "2018.02.11"
+    },
+    {
+        "nev": "Lolli",
+        "fajta": "Braque Belge",
+        "eletkor": "1",
+        "utolso": "2017.05.24"
+    },
+    {
+        "nev": "Lucky",
+        "fajta": "Irish Glen of Imaal Terrier",
+        "eletkor": "5",
+        "utolso": "2017.12.14"
+    },
+    {
+        "nev": "Lüki",
+        "fajta": "Do-Khyi",
+        "eletkor": "14",
+        "utolso": "2017.06.28"
+    },
+    {
+        "nev": "Lüki",
+        "fajta": "Otterhound",
+        "eletkor": "12",
+        "utolso": "2017.10.20"
+    },
+    {
+        "nev": "Lüki",
+        "fajta": "Zwergschnauzer",
+        "eletkor": "8",
+        "utolso": "2017.11.21"
+    },
+    {
+        "nev": "Lüki",
+        "fajta": "Leonberger",
+        "eletkor": "8",
+        "utolso": "2017.12.27"
+    },
+    {
+        "nev": "Lüszi",
+        "fajta": "Boykin Spaniel",
+        "eletkor": "5",
+        "utolso": "2017.03.21"
+    },
+    {
+        "nev": "Lüszi",
+        "fajta": "Gammel Dansk Hønsehund",
+        "eletkor": "8",
+        "utolso": "2017.11.08"
+    },
+    {
+        "nev": "Lüszi",
+        "fajta": "Islenskur Fjárhundur",
+        "eletkor": "17",
+        "utolso": "2017.08.08"
+    },
+    {
+        "nev": "Lüszi",
+        "fajta": "Chow Chow",
+        "eletkor": "6",
+        "utolso": "2017.05.13"
+    },
+    {
+        "nev": "Luxi",
+        "fajta": "Berger Blanc Suisse",
+        "eletkor": "4",
+        "utolso": "2017.12.19"
+    },
+    {
+        "nev": "Macifül",
+        "fajta": "Akita",
+        "eletkor": "15",
+        "utolso": "2017.07.09"
+    },
+    {
+        "nev": "Madox",
+        "fajta": "Jura Laufhund",
+        "eletkor": "2",
+        "utolso": "2017.06.24"
+    },
+    {
+        "nev": "Madox",
+        "fajta": "Berger de Brie",
+        "eletkor": "7",
+        "utolso": "2017.08.07"
+    },
+    {
+        "nev": "Madox",
+        "fajta": "Shar Pei",
+        "eletkor": "5",
+        "utolso": "2017.09.05"
+    },
+    {
+        "nev": "Madox",
+        "fajta": "Brandlbracke – Vieräugl",
+        "eletkor": "1",
+        "utolso": "2017.05.05"
+    },
+    {
+        "nev": "Madox",
+        "fajta": "Grønlandshund",
+        "eletkor": "8",
+        "utolso": "2017.09.09"
+    },
+    {
+        "nev": "Mandi",
+        "fajta": "Jura Niederlaufhund",
+        "eletkor": "5",
+        "utolso": "2017.11.17"
+    },
+    {
+        "nev": "Mandi",
+        "fajta": "Shikoku",
+        "eletkor": "14",
+        "utolso": "2017.09.11"
+    },
+    {
+        "nev": "Mandi",
+        "fajta": "Thai Ridgeback Dog",
+        "eletkor": "1",
+        "utolso": "2017.06.13"
+    },
+    {
+        "nev": "Manitu",
+        "fajta": "Alopekis",
+        "eletkor": "8",
+        "utolso": "2017.08.20"
+    },
+    {
+        "nev": "Manitu",
+        "fajta": "Karjalankarhukoira",
+        "eletkor": "3",
+        "utolso": "2017.04.26"
+    },
+    {
+        "nev": "Marco Polo",
+        "fajta": "Mops – Pug – Carlin",
+        "eletkor": "4",
+        "utolso": "2017.09.03"
+    },
+    {
+        "nev": "Marco Polo",
+        "fajta": "Cão da Serra da Estrela",
+        "eletkor": "9",
+        "utolso": "2017.06.29"
+    },
+    {
+        "nev": "Marco Polo",
+        "fajta": "Field Spaniel",
+        "eletkor": "10",
+        "utolso": "2017.04.09"
+    },
+    {
+        "nev": "Marco Polo",
+        "fajta": "Bouledogue français",
+        "eletkor": "2",
+        "utolso": "2017.07.03"
+    },
+    {
+        "nev": "Mary",
+        "fajta": "Spinone Italiano",
+        "eletkor": "16",
+        "utolso": "2017.03.03"
+    },
+    {
+        "nev": "Mary",
+        "fajta": "Ciobănesc românesc mioritic",
+        "eletkor": "11",
+        "utolso": "2017.10.11"
+    },
+    {
+        "nev": "Mázly",
+        "fajta": "Lhasa Apso",
+        "eletkor": "8",
+        "utolso": "2017.07.23"
+    },
+    {
+        "nev": "Mázly",
+        "fajta": "Segugio Italiano a Pelo Forte",
+        "eletkor": "13",
+        "utolso": "2017.10.03"
+    },
+    {
+        "nev": "Mázly",
+        "fajta": "Alaskan Malamute",
+        "eletkor": "5",
+        "utolso": "2017.09.26"
+    },
+    {
+        "nev": "Mázly",
+        "fajta": "Cane Corso Italiano",
+        "eletkor": "2",
+        "utolso": "2017.03.13"
+    },
+    {
+        "nev": "Mexi",
+        "fajta": "Bosanski Ostrodlaki Gonič – Barak",
+        "eletkor": "8",
+        "utolso": "2017.05.26"
+    },
+    {
+        "nev": "Mexx",
+        "fajta": "Cane da pastore Maremmano-Abruzzese",
+        "eletkor": "12",
+        "utolso": "2017.06.15"
+    },
+    {
+        "nev": "Mexy",
+        "fajta": "Slovenský hrubosrstý Stavač",
+        "eletkor": "13",
+        "utolso": "2017.05.17"
+    },
+    {
+        "nev": "Mia",
+        "fajta": "Nihon Supittsu",
+        "eletkor": "16",
+        "utolso": "2017.04.20"
+    },
+    {
+        "nev": "Mikey",
+        "fajta": "Cairn Terrier",
+        "eletkor": "9",
+        "utolso": "2018.01.23"
+    },
+    {
+        "nev": "Mikey",
+        "fajta": "Nihon Supittsu",
+        "eletkor": "16",
+        "utolso": "2018.01.11"
+    },
+    {
+        "nev": "Mikey",
+        "fajta": "Brandlbracke – Vieräugl",
+        "eletkor": "5",
+        "utolso": "2017.06.13"
+    },
+    {
+        "nev": "Mikey",
+        "fajta": "Grosser Schweizer Sennenhund",
+        "eletkor": "1",
+        "utolso": "2017.04.09"
+    },
+    {
+        "nev": "Mikey",
+        "fajta": "Bullmastiff",
+        "eletkor": "2",
+        "utolso": "2017.07.03"
+    },
+    {
+        "nev": "Milou",
+        "fajta": "Shar Pei",
+        "eletkor": "2",
+        "utolso": "2017.06.10"
+    },
+    {
+        "nev": "Milou",
+        "fajta": "English Coonhound",
+        "eletkor": "2",
+        "utolso": "2017.03.31"
+    },
+    {
+        "nev": "Misszi",
+        "fajta": "Pekingese",
+        "eletkor": "11",
+        "utolso": "2017.11.22"
+    },
+    {
+        "nev": "Misszi",
+        "fajta": "Terrier Brasileiro",
+        "eletkor": "5",
+        "utolso": "2018.01.20"
+    },
+    {
+        "nev": "Misszi",
+        "fajta": "Alopekis",
+        "eletkor": "11",
+        "utolso": "2017.10.27"
+    },
+    {
+        "nev": "Misszi",
+        "fajta": "Podenco Canario",
+        "eletkor": "12",
+        "utolso": "2017.12.01"
+    },
+    {
+        "nev": "Móric",
+        "fajta": "English Foxhound",
+        "eletkor": "6",
+        "utolso": "2017.12.03"
+    },
+    {
+        "nev": "Móric",
+        "fajta": "Suomenlapinkoira",
+        "eletkor": "3",
+        "utolso": "2017.09.07"
+    },
+    {
+        "nev": "Móric",
+        "fajta": "Landseer",
+        "eletkor": "1",
+        "utolso": "2017.11.01"
+    },
+    {
+        "nev": "Mozart",
+        "fajta": "Greyhound",
+        "eletkor": "1",
+        "utolso": "2017.09.15"
+    },
+    {
+        "nev": "Mozart",
+        "fajta": "Mastín español",
+        "eletkor": "9",
+        "utolso": "2017.08.21"
+    },
+    {
+        "nev": "Murphy",
+        "fajta": "Zwergpinscher",
+        "eletkor": "8",
+        "utolso": "2017.09.22"
+    },
+    {
+        "nev": "Murphy",
+        "fajta": "Segugio Italiano a Pelo Forte",
+        "eletkor": "6",
+        "utolso": "2017.08.06"
+    },
+    {
+        "nev": "Murphy",
+        "fajta": "Grand Basset Griffon Vendéen",
+        "eletkor": "7",
+        "utolso": "2017.03.22"
+    },
+    {
+        "nev": "Murphy",
+        "fajta": "Slovenský hrubosrstý Stavač",
+        "eletkor": "13",
+        "utolso": "2017.12.14"
+    },
+    {
+        "nev": "Murphy",
+        "fajta": "Bichon havanais",
+        "eletkor": "11",
+        "utolso": "2017.11.29"
+    },
+    {
+        "nev": "Naga",
+        "fajta": "Russko-Evropeïakaïa Laïka",
+        "eletkor": "12",
+        "utolso": "2018.02.23"
+    },
+    {
+        "nev": "Naga",
+        "fajta": "Moskovskaya Storozhevaya",
+        "eletkor": "10",
+        "utolso": "2017.11.04"
+    },
+    {
+        "nev": "Naga",
+        "fajta": "Chien Français Blanc et Noir",
+        "eletkor": "17",
+        "utolso": "2017.08.19"
+    },
+    {
+        "nev": "Naga",
+        "fajta": "Berger de Picardie – Berger Picard",
+        "eletkor": "16",
+        "utolso": "2017.08.12"
+    },
+    {
+        "nev": "Napóleon",
+        "fajta": "English Toy Terrier",
+        "eletkor": "8",
+        "utolso": "2017.03.09"
+    },
+    {
+        "nev": "Napóleon",
+        "fajta": "Manchester Terrier",
+        "eletkor": "15",
+        "utolso": "2018.02.21"
+    },
+    {
+        "nev": "Napóleon",
+        "fajta": "Australian Kelpie",
+        "eletkor": "16",
+        "utolso": "2017.04.01"
+    },
+    {
+        "nev": "Nessi",
+        "fajta": "Brandlbracke – Vieräugl",
+        "eletkor": "9",
+        "utolso": "2017.08.02"
+    },
+    {
+        "nev": "Nessi",
+        "fajta": "Komondor",
+        "eletkor": "13",
+        "utolso": "2017.08.04"
+    },
+    {
+        "nev": "Nessi",
+        "fajta": "Sussex Spaniel",
+        "eletkor": "8",
+        "utolso": "2017.04.12"
+    },
+    {
+        "nev": "Nessi",
+        "fajta": "Cão da Serra da Estrela",
+        "eletkor": "7",
+        "utolso": "2017.03.12"
+    },
+    {
+        "nev": "Netty",
+        "fajta": "Jugoslovenski Ovcarski Pas – Sarplaninac",
+        "eletkor": "7",
+        "utolso": "2017.04.14"
+    },
+    {
+        "nev": "Nocsi",
+        "fajta": "Gontchaja Russkaja",
+        "eletkor": "3",
+        "utolso": "2017.09.08"
+    },
+    {
+        "nev": "Nono",
+        "fajta": "Chien d’Artois",
+        "eletkor": "9",
+        "utolso": "2017.10.10"
+    },
+    {
+        "nev": "Otisz",
+        "fajta": "Japanese Middle Sized Dog",
+        "eletkor": "8",
+        "utolso": "2018.02.08"
+    },
+    {
+        "nev": "Otisz",
+        "fajta": "Saluki",
+        "eletkor": "11",
+        "utolso": "2017.05.14"
+    },
+    {
+        "nev": "Pacsi",
+        "fajta": "Slovenskў Kopov",
+        "eletkor": "3",
+        "utolso": "2017.12.06"
+    },
+    {
+        "nev": "Pacsi",
+        "fajta": "Biewer Yorkshire Terrier",
+        "eletkor": "11",
+        "utolso": "2017.04.04"
+    },
+    {
+        "nev": "Panka",
+        "fajta": "Canaan Dog",
+        "eletkor": "5",
+        "utolso": "2018.01.07"
+    },
+    {
+        "nev": "Panka",
+        "fajta": "Nihon Supittsu",
+        "eletkor": "4",
+        "utolso": "2017.04.20"
+    },
+    {
+        "nev": "Panka",
+        "fajta": "Français Blanc et Orange",
+        "eletkor": "14",
+        "utolso": "2017.08.06"
+    },
+    {
+        "nev": "Panka",
+        "fajta": "Norsk Lundehund",
+        "eletkor": "18",
+        "utolso": "2018.01.25"
+    },
+    {
+        "nev": "Panka",
+        "fajta": "Irish Glen of Imaal Terrier",
+        "eletkor": "6",
+        "utolso": "2017.05.23"
+    },
+    {
+        "nev": "Party",
+        "fajta": "",
+        "eletkor": "8",
+        "utolso": "2017.10.04"
+    },
+    {
+        "nev": "Patent",
+        "fajta": "Whippet",
+        "eletkor": "4",
+        "utolso": "2017.03.02"
+    },
+    {
+        "nev": "Patent",
+        "fajta": "American Water Spaniel",
+        "eletkor": "3",
+        "utolso": "2017.11.14"
+    },
+    {
+        "nev": "Patent",
+        "fajta": "Saluki",
+        "eletkor": "3",
+        "utolso": "2018.01.15"
+    },
+    {
+        "nev": "Pimasz",
+        "fajta": "Komondor",
+        "eletkor": "2",
+        "utolso": "2017.07.06"
+    },
+    {
+        "nev": "Pimasz",
+        "fajta": "Bolognese",
+        "eletkor": "17",
+        "utolso": "2017.04.16"
+    },
+    {
+        "nev": "Pimasz",
+        "fajta": "Großspitz",
+        "eletkor": "6",
+        "utolso": "2017.04.07"
+    },
+    {
+        "nev": "Plüsi",
+        "fajta": "Deutsche Bracke",
+        "eletkor": "11",
+        "utolso": "2017.11.22"
+    },
+    {
+        "nev": "Polka",
+        "fajta": "Kangaroo Dog",
+        "eletkor": "18",
+        "utolso": "2017.03.24"
+    },
+    {
+        "nev": "Polka",
+        "fajta": "Hannoverscher Schweisshund",
+        "eletkor": "16",
+        "utolso": "2017.10.23"
+    },
+    {
+        "nev": "Porti",
+        "fajta": "Sanshu",
+        "eletkor": "2",
+        "utolso": "2017.07.14"
+    },
+    {
+        "nev": "Rafi",
+        "fajta": "Dobermann",
+        "eletkor": "16",
+        "utolso": "2017.06.07"
+    },
+    {
+        "nev": "Réka",
+        "fajta": "Tennessee Treeing Brindle",
+        "eletkor": "2",
+        "utolso": "2018.02.17"
+    },
+    {
+        "nev": "Réka",
+        "fajta": "Luzerner Laufhund",
+        "eletkor": "7",
+        "utolso": "2017.06.29"
+    },
+    {
+        "nev": "Réka",
+        "fajta": "Latvijas Dzinejsuns",
+        "eletkor": "2",
+        "utolso": "2017.07.06"
+    },
+    {
+        "nev": "Réka",
+        "fajta": "Griffon á Poil Laineux",
+        "eletkor": "17",
+        "utolso": "2017.11.08"
+    },
+    {
+        "nev": "Rézi",
+        "fajta": "Rövidszőrű magyar vizsla",
+        "eletkor": "5",
+        "utolso": "2017.06.29"
+    },
+    {
+        "nev": "Rézi",
+        "fajta": "Toy Fox Terrier",
+        "eletkor": "3",
+        "utolso": "2017.03.01"
+    },
+    {
+        "nev": "Rézi",
+        "fajta": "Curly Coated Retriever",
+        "eletkor": "4",
+        "utolso": "2017.10.18"
+    },
+    {
+        "nev": "Rézi",
+        "fajta": "Suomenajokoira",
+        "eletkor": "3",
+        "utolso": "2017.06.01"
+    },
+    {
+        "nev": "Ricsi",
+        "fajta": "Suomenpystykorva",
+        "eletkor": "14",
+        "utolso": "2017.10.06"
+    },
+    {
+        "nev": "Rikiki",
+        "fajta": "Grand Anglo-Français Blanc et Noir",
+        "eletkor": "3",
+        "utolso": "2017.08.24"
+    },
+    {
+        "nev": "Rikiki",
+        "fajta": "Border Terrier",
+        "eletkor": "10",
+        "utolso": "2017.11.02"
+    },
+    {
+        "nev": "Rómeó",
+        "fajta": "Bullmastiff",
+        "eletkor": "1",
+        "utolso": "2017.09.29"
+    },
+    {
+        "nev": "Rómeó",
+        "fajta": "Norfolk Terrier",
+        "eletkor": "9",
+        "utolso": "2017.07.08"
+    },
+    {
+        "nev": "Roti",
+        "fajta": "Tosa",
+        "eletkor": "7",
+        "utolso": "2018.01.10"
+    },
+    {
+        "nev": "Roti",
+        "fajta": "Levesque",
+        "eletkor": "11",
+        "utolso": "2018.01.22"
+    },
+    {
+        "nev": "Royal",
+        "fajta": "English Foxhound",
+        "eletkor": "18",
+        "utolso": "2017.03.04"
+    },
+    {
+        "nev": "Royal",
+        "fajta": "Srpski Gonič",
+        "eletkor": "2",
+        "utolso": "2017.08.29"
+    },
+    {
+        "nev": "Rupert",
+        "fajta": "Chien de Montagne de l’Atlas – Aïdi",
+        "eletkor": "10",
+        "utolso": "2017.09.14"
+    },
+    {
+        "nev": "Sábi",
+        "fajta": "Bracco Italiano",
+        "eletkor": "1",
+        "utolso": "2018.01.31"
+    },
+    {
+        "nev": "Saidka",
+        "fajta": "Chinese Crested Dog",
+        "eletkor": "11",
+        "utolso": "2017.05.28"
+    },
+    {
+        "nev": "Saidka",
+        "fajta": "Dogue de Bordeaux",
+        "eletkor": "7",
+        "utolso": "2018.02.15"
+    },
+    {
+        "nev": "Saidka",
+        "fajta": "Coton de Tuléar",
+        "eletkor": "4",
+        "utolso": "2017.02.28"
+    },
+    {
+        "nev": "Sally",
+        "fajta": "Sussex Spaniel",
+        "eletkor": "16",
+        "utolso": "2017.09.05"
+    },
+    {
+        "nev": "Sammy",
+        "fajta": "Zwergpinscher",
+        "eletkor": "5",
+        "utolso": "2018.01.16"
+    },
+    {
+        "nev": "Sanci",
+        "fajta": "Alopekis",
+        "eletkor": "15",
+        "utolso": "2017.08.07"
+    },
+    {
+        "nev": "Sanci",
+        "fajta": "Dandie Dinmont Terrier",
+        "eletkor": "5",
+        "utolso": "2017.07.06"
+    },
+    {
+        "nev": "Santos",
+        "fajta": "Carolina dog",
+        "eletkor": "16",
+        "utolso": "2017.12.01"
+    },
+    {
+        "nev": "Santos",
+        "fajta": "Toy Caniche",
+        "eletkor": "11",
+        "utolso": "2017.12.07"
+    },
+    {
+        "nev": "Santos",
+        "fajta": "Anglo-français de petite vénerie",
+        "eletkor": "6",
+        "utolso": "2017.08.16"
+    },
+    {
+        "nev": "Scooby",
+        "fajta": "Československý vlčák",
+        "eletkor": "9",
+        "utolso": "2017.11.23"
+    },
+    {
+        "nev": "Snoopy",
+        "fajta": "Epagneul bleu de Picardie",
+        "eletkor": "16",
+        "utolso": "2017.07.07"
+    },
+    {
+        "nev": "Snoopy",
+        "fajta": "Redtick Coonhound",
+        "eletkor": "6",
+        "utolso": "2017.10.06"
+    },
+    {
+        "nev": "Snoopy",
+        "fajta": "Deutsche Dogge",
+        "eletkor": "3",
+        "utolso": "2017.11.01"
+    },
+    {
+        "nev": "Sofi",
+        "fajta": "Drentsche Patrijshond",
+        "eletkor": "16",
+        "utolso": "2017.06.04"
+    },
+    {
+        "nev": "Sofi",
+        "fajta": "Tervueren",
+        "eletkor": "13",
+        "utolso": "2018.01.06"
+    },
+    {
+        "nev": "Sofi",
+        "fajta": "Bullmastiff",
+        "eletkor": "3",
+        "utolso": "2017.04.22"
+    },
+    {
+        "nev": "Sofi",
+        "fajta": "Jura Niederlaufhund",
+        "eletkor": "1",
+        "utolso": "2017.11.11"
+    },
+    {
+        "nev": "Sol",
+        "fajta": "Grand Anglo-Français Blanc et Noir",
+        "eletkor": "18",
+        "utolso": "2017.10.17"
+    },
+    {
+        "nev": "Sol",
+        "fajta": "Eurasian",
+        "eletkor": "12",
+        "utolso": "2017.03.24"
+    },
+    {
+        "nev": "Spyke",
+        "fajta": "Komondor",
+        "eletkor": "16",
+        "utolso": "2017.07.30"
+    },
+    {
+        "nev": "Spyke",
+        "fajta": "Yorkshire Terrier",
+        "eletkor": "9",
+        "utolso": "2017.11.19"
+    },
+    {
+        "nev": "Steffi",
+        "fajta": "Mastino Napoletano",
+        "eletkor": "9",
+        "utolso": "2017.08.16"
+    },
+    {
+        "nev": "Stefi",
+        "fajta": "Braque Dupuy",
+        "eletkor": "8",
+        "utolso": "2017.07.10"
+    },
+    {
+        "nev": "Stefi",
+        "fajta": "Sloughi",
+        "eletkor": "15",
+        "utolso": "2017.08.05"
+    },
+    {
+        "nev": "Stefi",
+        "fajta": "Standard Caniche",
+        "eletkor": "10",
+        "utolso": "2017.05.15"
+    },
+    {
+        "nev": "Stefi",
+        "fajta": "Shikoku",
+        "eletkor": "9",
+        "utolso": "2017.12.25"
+    },
+    {
+        "nev": "Stefi",
+        "fajta": "Chien Français Tricolore",
+        "eletkor": "10",
+        "utolso": "2018.02.20"
+    },
+    {
+        "nev": "Szaffi",
+        "fajta": "Sussex Spaniel",
+        "eletkor": "3",
+        "utolso": "2017.03.10"
+    },
+    {
+        "nev": "Szimba",
+        "fajta": "Nova Scotia Duck Tolling Retriever",
+        "eletkor": "13",
+        "utolso": "2017.10.31"
+    },
+    {
+        "nev": "Szimba",
+        "fajta": "Gończy Polski",
+        "eletkor": "13",
+        "utolso": "2017.04.26"
+    },
+    {
+        "nev": "Szimba",
+        "fajta": "Mastiff",
+        "eletkor": "13",
+        "utolso": "2017.03.08"
+    },
+    {
+        "nev": "Sziszike",
+        "fajta": "Grand Basset Griffon Vendéen",
+        "eletkor": "6",
+        "utolso": "2017.09.03"
+    },
+    {
+        "nev": "Sziszike",
+        "fajta": "Pharaoh Hound",
+        "eletkor": "14",
+        "utolso": "2017.08.21"
+    },
+    {
+        "nev": "Sziszike",
+        "fajta": "Maltese",
+        "eletkor": "5",
+        "utolso": "2017.04.11"
+    },
+    {
+        "nev": "Szofi",
+        "fajta": "Posavski Gonič",
+        "eletkor": "13",
+        "utolso": "2017.12.08"
+    },
+    {
+        "nev": "Szofi",
+        "fajta": "Irish Wolfhound",
+        "eletkor": "4",
+        "utolso": "2017.12.14"
+    },
+    {
+        "nev": "Szofi",
+        "fajta": "Gråhund",
+        "eletkor": "11",
+        "utolso": "2017.10.08"
+    },
+    {
+        "nev": "Szofi",
+        "fajta": "Whippet",
+        "eletkor": "7",
+        "utolso": "2017.04.16"
+    },
+    {
+        "nev": "Szofi",
+        "fajta": "Black and Tan Coonhound",
+        "eletkor": "5",
+        "utolso": "2018.01.10"
+    },
+    {
+        "nev": "Szofi",
+        "fajta": "Perro de Agua Español",
+        "eletkor": "16",
+        "utolso": "2018.01.07"
+    },
+    {
+        "nev": "Tacsi",
+        "fajta": "Azawakh",
+        "eletkor": "11",
+        "utolso": "2018.02.26"
+    },
+    {
+        "nev": "Tacsi",
+        "fajta": "Shiba",
+        "eletkor": "5",
+        "utolso": "2017.04.25"
+    },
+    {
+        "nev": "Tacsi",
+        "fajta": "Pharaoh Hound",
+        "eletkor": "13",
+        "utolso": "2017.11.19"
+    },
+    {
+        "nev": "Tapancs",
+        "fajta": "Sealyham Terrier",
+        "eletkor": "7",
+        "utolso": "2017.12.24"
+    },
+    {
+        "nev": "Tapancs",
+        "fajta": "Scottish Terrier",
+        "eletkor": "4",
+        "utolso": "2017.07.09"
+    },
+    {
+        "nev": "Tapi",
+        "fajta": "White Shepherd Dog",
+        "eletkor": "16",
+        "utolso": "2017.11.13"
+    },
+    {
+        "nev": "Tapi",
+        "fajta": "Epagneul français",
+        "eletkor": "8",
+        "utolso": "2017.05.26"
+    },
+    {
+        "nev": "Tekila",
+        "fajta": "Biewer Yorkshire Terrier",
+        "eletkor": "18",
+        "utolso": "2017.06.25"
+    },
+    {
+        "nev": "Tekila",
+        "fajta": "Deutscher Kleinspitz",
+        "eletkor": "12",
+        "utolso": "2017.06.12"
+    },
+    {
+        "nev": "Tekila",
+        "fajta": "Chien de Montagne des Pyrénées",
+        "eletkor": "14",
+        "utolso": "2017.12.15"
+    },
+    {
+        "nev": "Tekla",
+        "fajta": "Tervueren",
+        "eletkor": "11",
+        "utolso": "2017.11.04"
+    },
+    {
+        "nev": "Tekla",
+        "fajta": "Piccolo Levriero Italiano",
+        "eletkor": "6",
+        "utolso": "2017.05.14"
+    },
+    {
+        "nev": "Tekla",
+        "fajta": "Chihuahueño",
+        "eletkor": "7",
+        "utolso": "2017.04.22"
+    },
+    {
+        "nev": "Tekla",
+        "fajta": "Deutscher Boxer",
+        "eletkor": "6",
+        "utolso": "2018.02.26"
+    },
+    {
+        "nev": "Teo",
+        "fajta": "Affenpinscher",
+        "eletkor": "1",
+        "utolso": "2017.08.05"
+    },
+    {
+        "nev": "Teo",
+        "fajta": "Dalmatinac",
+        "eletkor": "12",
+        "utolso": "2017.12.15"
+    },
+    {
+        "nev": "Teo",
+        "fajta": "Deutscher Boxer",
+        "eletkor": "4",
+        "utolso": "2017.07.19"
+    },
+    {
+        "nev": "Teo",
+        "fajta": "Tosa",
+        "eletkor": "15",
+        "utolso": "2017.08.30"
+    },
+    {
+        "nev": "Tequila",
+        "fajta": "Ciobănesc românesc mioritic",
+        "eletkor": "12",
+        "utolso": "2017.07.28"
+    },
+    {
+        "nev": "Tiffany",
+        "fajta": "Haldenstøver",
+        "eletkor": "2",
+        "utolso": "2017.03.21"
+    },
+    {
+        "nev": "Tiffany",
+        "fajta": "Lietuvių skalikas",
+        "eletkor": "3",
+        "utolso": "2017.06.19"
+    },
+    {
+        "nev": "Tiffany",
+        "fajta": "Lietuvių skalikas",
+        "eletkor": "2",
+        "utolso": "2017.10.01"
+    },
+    {
+        "nev": "Tigi",
+        "fajta": "Hovawart",
+        "eletkor": "8",
+        "utolso": "2017.07.13"
+    },
+    {
+        "nev": "Tigi",
+        "fajta": "Mudi",
+        "eletkor": "2",
+        "utolso": "2018.01.13"
+    },
+    {
+        "nev": "Tigi",
+        "fajta": "Norrbottenspets",
+        "eletkor": "7",
+        "utolso": "2017.04.16"
+    },
+    {
+        "nev": "Tigi",
+        "fajta": "Dogue de Bordeaux",
+        "eletkor": "12",
+        "utolso": "2018.02.02"
+    },
+    {
+        "nev": "Tigi",
+        "fajta": "Piccolo Levriero Italiano",
+        "eletkor": "3",
+        "utolso": "2017.08.26"
+    },
+    {
+        "nev": "Timba",
+        "fajta": "Kai",
+        "eletkor": "2",
+        "utolso": "2017.04.30"
+    },
+    {
+        "nev": "Timba",
+        "fajta": "Korea Jindo Dog",
+        "eletkor": "7",
+        "utolso": "2017.06.02"
+    },
+    {
+        "nev": "Timon",
+        "fajta": "Alopekis",
+        "eletkor": "9",
+        "utolso": "2017.12.12"
+    },
+    {
+        "nev": "Tisza",
+        "fajta": "Smålandsstövare",
+        "eletkor": "8",
+        "utolso": "2017.09.20"
+    },
+    {
+        "nev": "Tisza",
+        "fajta": "Curly Coated Retriever",
+        "eletkor": "14",
+        "utolso": "2017.10.30"
+    },
+    {
+        "nev": "Titok",
+        "fajta": "Medium Caniche",
+        "eletkor": "2",
+        "utolso": "2018.02.23"
+    },
+    {
+        "nev": "Titok",
+        "fajta": "Volpino Italiano",
+        "eletkor": "3",
+        "utolso": "2017.10.05"
+    },
+    {
+        "nev": "Titok",
+        "fajta": "Kromfohrländer",
+        "eletkor": "11",
+        "utolso": "2017.09.08"
+    },
+    {
+        "nev": "Titok",
+        "fajta": "Grand Anglo-Français Tricolore",
+        "eletkor": "5",
+        "utolso": "2018.02.16"
+    },
+    {
+        "nev": "Topi",
+        "fajta": "Deutsche Bracke",
+        "eletkor": "16",
+        "utolso": "2017.07.28"
+    },
+    {
+        "nev": "Topi",
+        "fajta": "Chart Polski",
+        "eletkor": "1",
+        "utolso": "2017.04.12"
+    },
+    {
+        "nev": "Topi",
+        "fajta": "Sloughi",
+        "eletkor": "8",
+        "utolso": "2017.06.19"
+    },
+    {
+        "nev": "Topi",
+        "fajta": "Petit Basset Griffon Vendéen",
+        "eletkor": "16",
+        "utolso": "2017.10.30"
+    },
+    {
+        "nev": "Touluse",
+        "fajta": "Kai",
+        "eletkor": "18",
+        "utolso": "2017.11.08"
+    },
+    {
+        "nev": "Trendy",
+        "fajta": "Briquet Griffon Vendéen",
+        "eletkor": "15",
+        "utolso": "2018.01.19"
+    },
+    {
+        "nev": "Trendy",
+        "fajta": "Australian Stumpy Tail Cattle Dog",
+        "eletkor": "9",
+        "utolso": "2017.06.23"
+    },
+    {
+        "nev": "Trendy",
+        "fajta": "Ca de Bou – Perro Dogo Mallorquin",
+        "eletkor": "4",
+        "utolso": "2017.07.31"
+    },
+    {
+        "nev": "Trendy",
+        "fajta": "Japanese Middle Sized Dog",
+        "eletkor": "16",
+        "utolso": "2018.02.17"
+    },
+    {
+        "nev": "Tuco",
+        "fajta": "Coban Köpegi",
+        "eletkor": "6",
+        "utolso": "2017.12.06"
+    },
+    {
+        "nev": "Vacak",
+        "fajta": "Bouledogue français",
+        "eletkor": "15",
+        "utolso": "2018.01.23"
+    },
+    {
+        "nev": "Vackor",
+        "fajta": "American Foxhound",
+        "eletkor": "13",
+        "utolso": "2017.04.12"
+    },
+    {
+        "nev": "Vackor",
+        "fajta": "Jura Laufhund",
+        "eletkor": "11",
+        "utolso": "2017.12.02"
+    },
+    {
+        "nev": "Vackor",
+        "fajta": "Bullmastiff",
+        "eletkor": "11",
+        "utolso": "2017.05.09"
+    },
+    {
+        "nev": "Vadóc",
+        "fajta": "Saluki",
+        "eletkor": "2",
+        "utolso": "2017.07.01"
+    },
+    {
+        "nev": "Vadóc",
+        "fajta": "Staffordshire Bullterrier",
+        "eletkor": "2",
+        "utolso": "2017.08.13"
+    },
+    {
+        "nev": "Vadóc",
+        "fajta": "Dalmatinac",
+        "eletkor": "16",
+        "utolso": "2017.03.02"
+    },
+    {
+        "nev": "Vesta",
+        "fajta": "Chesapeake Bay Retriever",
+        "eletkor": "15",
+        "utolso": "2017.09.15"
+    },
+    {
+        "nev": "Watson",
+        "fajta": "Irish Water Spaniel",
+        "eletkor": "4",
+        "utolso": "2017.07.09"
+    },
+    {
+        "nev": "Watson",
+        "fajta": "Riesenschnauzer",
+        "eletkor": "4",
+        "utolso": "2017.10.17"
+    },
+    {
+        "nev": "Whisky",
+        "fajta": "Landseer",
+        "eletkor": "4",
+        "utolso": "2017.09.19"
+    },
+    {
+        "nev": "Whisky",
+        "fajta": "Hollandse Herdershond Langhaar",
+        "eletkor": "17",
+        "utolso": "2017.09.29"
+    },
+    {
+        "nev": "Wifi",
+        "fajta": "Chien de berger des Pyrénées à face rase",
+        "eletkor": "7",
+        "utolso": "2017.06.14"
+    },
+    {
+        "nev": "Zafír",
+        "fajta": "Skye Terrier",
+        "eletkor": "9",
+        "utolso": "2018.01.07"
+    },
+    {
+        "nev": "Zafír",
+        "fajta": "Irish Soft Coated Wheaten Terrier",
+        "eletkor": "6",
+        "utolso": "2017.08.23"
+    },
+    {
+        "nev": "Zafira",
+        "fajta": "Podengo Português",
+        "eletkor": "10",
+        "utolso": "2017.07.10"
+    },
+    {
+        "nev": "Zefír",
+        "fajta": "Russko-Evropeïakaïa Laïka",
+        "eletkor": "6",
+        "utolso": "2017.11.09"
+    },
+    {
+        "nev": "Zina",
+        "fajta": "Podengo Português Grande",
+        "eletkor": "6",
+        "utolso": "2017.12.17"
+    },
+    {
+        "nev": "Zira",
+        "fajta": "Griffon Bleu de Gascogne",
+        "eletkor": "6",
+        "utolso": "2017.09.20"
+    },
+    {
+        "nev": "Zira",
+        "fajta": "Gråhund",
+        "eletkor": "6",
+        "utolso": "2017.11.20"
+    },
+    {
+        "nev": "Zira",
+        "fajta": "American Cocker Spaniel",
+        "eletkor": "9",
+        "utolso": "2017.05.24"
+    },
+    {
+        "nev": "Ziva",
+        "fajta": "Labrador Retriever",
+        "eletkor": "6",
+        "utolso": "2017.12.04"
+    },
+    {
+        "nev": "Zoey",
+        "fajta": "Tibetan Terrier",
+        "eletkor": "9",
+        "utolso": "2017.08.25"
+    },
+    {
+        "nev": "Zoey",
+        "fajta": "Curly Coated Retriever",
+        "eletkor": "9",
+        "utolso": "2018.02.21"
+    },
+    {
+        "nev": "Zoli",
+        "fajta": "Braque d’Auvergne",
+        "eletkor": "18",
+        "utolso": "2017.08.08"
+    },
+    {
+        "nev": "Zoli",
+        "fajta": "Black and Tan Coonhound",
+        "eletkor": "15",
+        "utolso": "2017.12.15"
+    },
+    {
+        "nev": "Zolika",
+        "fajta": "Suomenpystykorva",
+        "eletkor": "9",
+        "utolso": "2018.01.19"
+    },
+    {
+        "nev": "Zorro",
+        "fajta": "Nova Scotia Duck Tolling Retriever",
+        "eletkor": "11",
+        "utolso": "2017.05.06"
+    },
+    {
+        "nev": "Zorro",
+        "fajta": "Labrador Retriever",
+        "eletkor": "18",
+        "utolso": "2017.10.27"
+    },
+    {
+        "nev": "Zoya",
+        "fajta": "Eurasian",
+        "eletkor": "15",
+        "utolso": "2017.06.03"
+    },
+    {
+        "nev": "Zoya",
+        "fajta": "Dogo Canario",
+        "eletkor": "7",
+        "utolso": "2017.11.25"
+    },
+    {
+        "nev": "Zozi",
+        "fajta": "Français Blanc et Orange",
+        "eletkor": "4",
+        "utolso": "2017.03.25"
+    },
+    {
+        "nev": "Zozi",
+        "fajta": "Braque Belge",
+        "eletkor": "13",
+        "utolso": "2017.12.29"
+    },
+    {
+        "nev": "Zsebike",
+        "fajta": "Shikoku",
+        "eletkor": "7",
+        "utolso": "2017.03.03"
+    }
+]
