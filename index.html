@@ -1,113 +1,51 @@
 <!DOCTYPE html>
 <html lang="hu">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kutya Menhely - Fogadj örökbe!</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f4f4f4;
-    }
-    header {
-      background-color: #333;
-      color: #fff;
-      padding: 20px 0;
-      text-align: center;
-    }
-    h1, h2 {
-      margin-top: 0;
-    }
-    .container {
-      max-width: 1200px;
-      margin: 20px auto;
-      padding: 0 20px;
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      grid-gap: 20px;
-    }
-    .feature {
-      background-color: #fff;
-      padding: 20px;
-      border-radius: 5px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-    .feature h2 {
-      margin-top: 0;
-    }
-    .feature p {
-      margin-bottom: 20px;
-    }
-    .cta-button {
-      display: inline-block;
-      background-color: #4CAF50;
-      color: white;
-      padding: 14px 20px;
-      margin: 20px 0;
-      border: none;
-      cursor: pointer;
-      border-radius: 5px;
-      text-decoration: none;
-      font-size: 16px;
-    }
-    .cta-button:hover {
-      background-color: #45a049;
-    }
-    .image-container {
-      text-align: center;
-      margin-bottom: 20px;
-    }
-    .dog-image {
-      max-width: 100%;
-      height: auto;
-      border-radius: 5px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-    .contact-info {
-      background-color: #fff;
-      padding: 20px;
-      border-radius: 5px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-    @media (max-width: 768px) {
-      .container {
-        grid-template-columns: 1fr;
-      }
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kutyamenhely</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <h1>Kutya Menhely</h1>
-    <p>Fogadj örökbe egy kutyát ma!</p>
-  </header>
-  <div class="container">
-    <div class="feature">
-      <h2>Miért válassz minket?</h2>
-      <p>A kutya menhelyünkön szeretetteljes, kiképzett szakemberek gondoskodnak a kutyákról. Minden kutya részesül állatorvosi ellátásban, szükség esetén oltásokat is kapnak.</p>
-    </div>
-    <div class="image-container">
-      <img src="https://magazin.petissimo.hu/media/cache/optimized/uploads/fekete_mopsz_szalad_a_tenger_parton.jpg" alt="Örökbefogadható kutya 1" class="dog-image">
-    </div>
-    <div class="image-container">
-      <img src="https://magazin.petissimo.hu/media/cache/optimized/uploads/berni_pasztorkutya_kozmtika.jpg" alt="Örökbefogadható kutya 2" class="dog-image">
-    </div>
-    <div class="feature">
-      <h2>Hogyan tudsz örökbe fogadni?</h2>
-      <p>Válogass a nálunk elérhető kutyák között, majd vedd fel velünk a kapcsolatot telefonon vagy e-mailben. Szívesen segítünk kiválasztani a számodra legmegfelelőbb társat!</p>
-      <a href="fogadj_orokbe.html" class="cta-button">Fogadj örökbe!</a>
-    </div>
-    <div class="contact-info">
-      <h2>Látogass el hozzánk</h2>
-      <p>1234 Kutyavár, Kutya utca 1.</p>
-      <p>Telefon: +36 1 234 5678</p>
-      <p>Email: info@kutyamenhely.hu</p>
-    </div>
-    <div class="image-container">
-      <img src="https://magazin.petissimo.hu/media/cache/optimized/uploads/cropped/tandard_tricolor_bully_a_padon_crop_6131ba10268ce.JPG" alt="Örökbefogadható kutya 2" class="dog-image">
-  </div>
-  </div>
+    <header>
+        <h1>Kutyamentő Alapítvány</h1>
+        <a href="adopt.html" class="button">Örökbefogadás</a>
+    </header>
+
+    <main>
+        <section class="about">
+            <h2>Rólunk</h2>
+            <p>A Kutyamentő Alapítvány célja, hogy otthont és szeretetet nyújtson az árva kutyáknak. Minden kutyánk egyedi, és mindannyian arra vágyunk, hogy szerető családot találjunk.</p>
+            <img src="https://picsum.photos/200/300" alt="Kutyamenhely" class="expandable-img">
+        </section>
+
+        <section class="services">
+            <h2>Szolgáltatások</h2>
+            <ul>
+                <li>Örökbefogadás</li>
+                <li>Állatorvosi ellátás</li>
+                <li>Tréning és rehabilitáció</li>
+                <li>Étel és ital biztosítása</li>
+            </ul>
+            <img src="https://picsum.photos/200/300" alt="Szolgáltatások" class="expandable-img">
+        </section>
+
+        <section class="contact">
+            <h2>Kapcsolat</h2>
+            <p>Ha kérdése van, kérjük, vegye fel velünk a kapcsolatot:</p>
+            <ul>
+                <li>Email: info@kutyamentes.hu</li>
+                <li>Telefon: +36 1 234 5678</li>
+            </ul>
+            <img src="https://picsum.photos/200/300" alt="Kapcsolat" class="expandable-img">
+        </section>
+    </main>
+
+    <footer>
+        <p>Kutyamentő Alapítvány</p>
+        <p>Cím: Budapest, Kutyavár u. 12.</p>
+    </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>
