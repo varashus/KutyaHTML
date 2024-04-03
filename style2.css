@@ -1,0 +1,46 @@
+@font-face {
+    font-family: waa;
+    src: url(LobsterTwoItalic-ZZ5z.ttf);
+  }
+*{
+    font-family: waa;
+}
+body {
+    background-color: #559CAD;
+    font-family: Arial;
+    padding: 20px;
+}
+
+#kutyaTabla {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+    border: 1px solid #4A5899;
+    background-color: #fff;
+}
+
+#kutyaTabla th,
+#kutyaTabla td {
+    text-align: left;
+    padding: 8px;
+}
+
+#kutyaTabla th {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+#kutyaTabla tbody tr:hover {
+    background-color: #f5f5f5;
+}
+
+#kereso {
+    border-radius: 4px;
+    width: 100%;
+    padding: 8px;
+    margin-top: 10px;
+    border: 5px solid #8C5383;
+    font-size: 16px;
+    background-color: #4A5899;
+    color: white;
+}

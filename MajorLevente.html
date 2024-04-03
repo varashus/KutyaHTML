@@ -4,91 +4,58 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kutyák</title>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
-    <style>
-    body {
-        background-color: #f0f0f0;
-        font-family: Arial;
-        padding: 20px;
-    }
-
-    #kutyaTabla {
-        border-collapse: collapse;
-        width: 100%;
-        margin-top: 20px;
-        border: 1px solid #ddd;
-        background-color: #fff;
-    }
-
-    #kutyaTabla th,
-    #kutyaTabla td {
-        text-align: left;
-        padding: 8px;
-    }
-
-    #kutyaTabla th {
-        background-color: #f2f2f2;
-        color: #333;
-    }
-
-    #kutyaTabla tbody tr:hover {
-        background-color: #f5f5f5;
-    }
-
-    #kereso {
-        border-radius: 4px;
-        width: 100%;
-        padding: 8px;
-        margin-top: 10px;
-        border: 1px solid #ccc;
-        font-size: 16px;
-    }
-    </style>
+   
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style2.css">
 </head>
 
 <body>
-    <!-- AngularJS alkalmazás és kontroller definíciója -->
-    <div ng-app="kutyaApp" ng-controller="kutyaController">
-        <!-- Kereső mező -->
-        <input type="text" id="kereso" ng-model="search" placeholder="Keresés...">
+ 
+    <div class="container-fluid" ng-app="kutyaApp" ng-controller="kutyaController">
+  
+        <input type="text" id="kereso" ng-model="search" placeholder="Keresés..." class="form-control mb-3">
         
-        <!-- Táblázat megjelenítése -->
-        <!-- Több
-             soros
-             komment -->
-        <table id="kutyaTabla">
-            <thead>
-                <tr>
-                    <th>Sorszám</th>
-                    <th>Név</th>
-                    <th>Fajta</th>
-                    <th>Életkor</th>
-                    <th>Utolsó orvosi ellenőrzés</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr ng-repeat="kutya in kutyak | filter: search">
-                    <td>{{$index + 1}}</td>
-                    <td>{{kutya.nev}}</td>
-                    <td>{{kutya.fajta}}</td>
-                    <td>{{kutya.eletkor}}</td>
-                    <td>{{kutya.utolso}}</td>
-                </tr>
-            </tbody>
-        </table>
+
+        <div class="row">
+            <div class="col">
+                <div class="table-responsive">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>Sorszám</th>
+                                <th>Név</th>
+                                <th>Fajta</th>
+                                <th>Életkor</th>
+                                <th>Utolsó orvosi ellenőrzés</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr ng-repeat="kutya in kutyak | filter: search">
+                                <td>{{$index + 1}}</td>
+                                <td>{{kutya.nev}}</td>
+                                <td>{{kutya.fajta}}</td>
+                                <td>{{kutya.eletkor}}</td>
+                                <td>{{kutya.utolso}}</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
     </div>
 
-    <!-- AngularJS alkalmazás definíciója -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
     <script>
         var app = angular.module('kutyaApp', []);
         app.controller('kutyaController', function($scope, $http) {
-            // JSON adatok beolvasása
+         
             $http.get('kutyak.json').then(function(response) {
                 $scope.kutyak = response.data;
-                console.log($scope.kutyak); // Beolvasott adatok kiírása a konzolra
+                console.log($scope.kutyak); 
             });
             
-            // Kereső funkció
+         
             $scope.search = '';
         });
     </script>

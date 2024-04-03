@@ -1,12 +1,23 @@
+@font-face {
+  font-family: waa;
+  src: url(LobsterTwoItalic-ZZ5z.ttf);
+}
+
+*{
+  font-family: waa;
+}
+
 body {
+    font-family: waa;
     margin: 0;
     padding: 0;
-    background-color: #8f8f8f;
+    background-color: #559CAD;
+    
   }
   
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #4A5899;
+    color: #3e58cc;
     padding: 20px 0;
     text-align: center;
   }
@@ -14,7 +25,9 @@ header {
 h1, h2 {
     margin-top: 0;
   }
-
+.wrapper{
+  background-color: #C1B2AB;
+}
 .container {
     max-width: 1200px;
     margin: 20px auto;
@@ -25,16 +38,18 @@ h1, h2 {
   }
 
 .feature {
-    background-color: #cfcfcf;
+    background-color: #8C5383;
     padding: 20px;
     border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 5px rgba(255, 255, 255, 0.1);
+    text-align: center;
+  
   }
 
 .button {
     display: inline-block;
-    background-color: #4CAF50;
-    color: white;
+    background-color: #000000;
+    color: #C1B2AB;
     padding: 14px 20px;
     margin: 20px 0;
     border: none;
@@ -45,7 +60,7 @@ h1, h2 {
   }
 
 .button:hover {
-    background-color: #45a049;
+    background-color: #272727;
   }
 
 .dog-image {
